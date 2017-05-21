@@ -2,17 +2,20 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="posts container">
   {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      {% include author_block.html thingy=post %}
+
       <div class="entry">
-        {{ post.excerpt }}
+      {{ post.content }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% include tag_block.html thingy=post %}
+
     </article>
   {% endfor %}
 </div>

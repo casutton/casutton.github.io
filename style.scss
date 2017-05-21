@@ -287,6 +287,18 @@ footer {
     float: right;
 }
 
+.author {
+  font-size: 8pt;
+  margin-top: -12px;
+  padding-top: 0;
+  paddint-left: 2em;
+  font-family: $times;
+  color: $darkGray;
+}
+
+.tag {
+  text-decoration: underline;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
