@@ -9,6 +9,13 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="tags">
+    Tags:
+   {% for tag in page.tags %}
+    <span class="tag">{{ tag }}</span>>
+    {% endfor %}
+  </div>
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>

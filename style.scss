@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 14px/1.4 $lora;
   color: $darkGray;
 }
 
@@ -33,9 +33,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.4;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -45,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
@@ -165,8 +164,9 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 48px;
+  height: 50px;
+  padding-top: 10px;
   margin-right: 15px;
 
   @include mobile {
@@ -282,6 +282,11 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+.biopic {
+    float: right;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
