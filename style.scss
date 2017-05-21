@@ -23,13 +23,6 @@ body {
   color: $darkGray;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -299,6 +292,14 @@ footer {
 .tag {
   text-decoration: underline;
 }
+
+div.pagenav {
+   margin: 12px 0px 12px 0px;
+   padding: 6px 0px 6px 0px;
+   border-top: 1px solid $lightGray;
+   border-bottom: 1px solid $lightGray;
+}
+   
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

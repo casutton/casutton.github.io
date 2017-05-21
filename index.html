@@ -3,19 +3,23 @@ layout: default
 ---
 
 <div class="posts container">
-  {% for post in site.posts %}
-    <article class="post">
+  <div class="row">
+    <div class="col-sm-8">
+     {% for post in site.posts %}
+       <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      {% include author_block.html thingy=post %}
+         {% include author_block.html thingy=post %}
 
-      <div class="entry">
-      {{ post.content }}
-      </div>
+         <div class="entry">
+         {{ post.content }}
+         </div>
 
-      {% include tag_block.html thingy=post %}
+         {% include tag_block.html thingy=post %}
 
-    </article>
-  {% endfor %}
+       </article>
+     {% endfor %}
+    </div>
+  </div>
 </div>
