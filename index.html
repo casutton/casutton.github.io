@@ -2,10 +2,11 @@
 layout: default
 ---
 
-<div class="posts container">
+<div class="posts">
+  
   <div class="row">
     <div class="col-sm-8">
-     {% for post in site.posts %}
+     {% for post in paginator.posts %}
        <article class="post">
 
          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -19,7 +20,21 @@ layout: default
          {% include tag_block.html thingy=post %}
 
        </article>
-     {% endfor %}
-    </div>
+	 {% endfor %}
+
+	 <!-- Pagination links -->
+	 <div class="pagination">
+	   {% if paginator.next_page %}
+	   <a href="{{ paginator.next_page_path }}" class="older">&larr; Older Posts</a>
+	   {% endif %}
+
+	   {% if paginator.previous_page %}
+	   <a href="{{ paginator.previous_page_path }}" class="newer">Newer Posts &rarr;</a>
+	   {% endif %}
+	 </div>
+	 </div>
+
+	 {% include sidebar.html %}
+
   </div>
 </div>

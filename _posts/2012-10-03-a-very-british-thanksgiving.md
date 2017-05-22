@@ -6,6 +6,7 @@ author: Charles Sutton
 tags:
 - britain
 - modest proposals
+- silly
 modified_time: '2016-12-28T04:55:02.480-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-3558573721290937738
 blogger_orig_url: http://www.theexclusive.org/2012/10/a-very-british-thanksgiving.html

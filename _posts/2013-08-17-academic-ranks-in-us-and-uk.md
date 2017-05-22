@@ -6,6 +6,7 @@ author: Charles Sutton
 tags:
 - academic customs
 - us v uk academia
+- popular
 modified_time: '2014-11-02T07:21:34.664-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-323098517740663009
 blogger_orig_url: http://www.theexclusive.org/2013/08/academic-ranks-in-us-and-uk.html

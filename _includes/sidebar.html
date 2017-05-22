@@ -1,0 +1,32 @@
+	 <div class="sidebar col-sm-4">
+	   <p class="author_name">by <a href="http://homepages.inf.ed.ac.uk/csutton/">Charles Sutton</a></p>
+
+	   <h1>Recent Posts</h1>
+
+	   <ul>
+	     {% for post in site.posts limit:5 %}
+	     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	     {% endfor %}
+	   </ul>
+
+	   <h1>Most Popular</h1>
+	   <ul>
+	     {% for post in site.tags.popular limit:5 %}
+	     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	     {% endfor %}
+	   </ul>
+
+	   <h1>Topics</h1>
+	   <ul>
+	     {% assign sorted_tags = site.tags | sort %}
+	     {% for tag in sorted_tags %}
+	     {% if tag[0] != 'popular' %}
+	     {% assign tag_len = tag[1].size %}
+	     {% if tag_len > 1 %}
+	     <li><a href="/tag/{{tag[0]}}">{{ tag[0] }}</a> ({{ tag_len }})</li>
+	     {% endif %}
+	     {% endif %}
+	     {% endfor %}
+	   </ul>
+
+	 </div>

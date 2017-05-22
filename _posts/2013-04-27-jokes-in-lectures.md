@@ -5,6 +5,7 @@ date: '2013-04-27T05:29:00.001-07:00'
 author: Charles Sutton
 tags:
 - lecturing
+- popular
 modified_time: '2016-08-29T02:22:14.870-07:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-3945295142837495472
 blogger_orig_url: http://www.theexclusive.org/2013/04/jokes-in-lectures.html
