@@ -23,3 +23,7 @@ sometimes, I write [just to be silly](/tags/silly).
 
 The best way to contact me (insofar as any way is good; my response time
 is longer than I might like) is [by email](mailto:csutton@inf.ed.ac.uk).
+
+## Colophon
+
+I made this [using Jekyll](https://jekyllrb.com/). See [the source on Github](https://github.com/casutton/casutton.github.io).

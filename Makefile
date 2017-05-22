@@ -1,13 +1,12 @@
+# this is meant to be run from the parent directory,
+#  which will have two copies of the repo, one on
+#  source/ branch and one on master/ branch
+
 TMPDIR := $(shell mktemp -d -t tempdir)
 
-publish:
-	if [ ! -d $(TMPDIR) ]; then echo Error: Could not find directory $(TMPDIR); fi
-	jekyll build -d $(TMPDIR)
-	git checkout master
-	rsync $(TMPDIR) .
-	git commit -a
-	git push
-	git checkout source
-	rm -rf $(TMPDIR)	
-	
+publish: source master
+	(cd source; jekyll build -d ../master)
+	(cd master; git add --all; git commit -a)
+	(cd master; git push)
+
 
