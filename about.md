@@ -17,7 +17,7 @@ to attempt to figure things out, how the University
 works, how to be a better researcher, how to give 
 better advice to students.
 Well, except when,
-sometimes, I write [just to be silly](/tags/silly).
+sometimes, I write [just to be silly](/tag/silly).
 
 ## Contact me
 
