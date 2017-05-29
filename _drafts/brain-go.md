@@ -1,0 +1,69 @@
+---
+layout: post
+title: Where your brain wants to Go
+author: Charles Sutton
+tags:
+- advice
+- go the game
+- how to think
+- painfully extended metaphors
+---
+
+Years ago I attended a lecture from a famous master of the game of Go.
+He is revered not only for the many championships he has won, or even for his daring
+and distinctive style, but also for his insightful and even witty commentary on the games
+of other professionals. All of us who attended expected a once-in-a-lifetime treat.
+
+And so it was, but not in the way we expected.
+Sadly, the translation was not of the same standard as the lecture.
+As best as I can recall, the translation included such wisdom
+as: "You should play on the points where you want to play",
+"Sometimes you may not want to play where you play, but still
+it is important to play where you want to play",
+and "It is important to review the game after it is finished".
+All of us in the audience looked at each other blankly.
+None of us could understand how this could be the accumulated wisdom
+of a brilliant lecturer and champion. 
+
+Confused, I found a friend who understood the lecture in its original language.
+A pained look on his face, my friend explained that the flowery and poetic language
+of the lecture would have been difficult even for an professional translator,
+let alone a foreign Go enthusiast, however fluent, graciously donating his time
+to translate. My friend then explained the
+gist of the lecture, and indeed it contained great wisdom about how to learn the game.
+
+Sometimes when you play Go, there's a move on the board that you
+desperately wish to play.  I'm not talking about moves that are
+obviously good, those that claim large territories or capture many
+stones. Everybody likes to do that.  But sometimes,
+a point on the board calls out, like a tiny but brilliant beam of starlight
+is shining on one intersection of all the 361 on the board. But in your
+conscious mind, you cannot explain why that move. Hard as you may try,
+the move is too complex to read out, and you're not sure what will
+happen. A player of your strength does not play only on gut feeling, without thinking. It
+seems too dangerous. You should play somewhere else.
+
+And what the Go master said is: When a point on the board calls out like this,
+you must play there. Not because the move is correct --- it almost certainly is not ---
+but because your intuition is telling you that the move is correct,
+so the only way to improve your intuition is to play it, and discover why it is wrong.
+Go is too complex for humans to fully work out the consequences of any move,
+so at some point, no matter how far we look ahead, we have only our intuition to trust.
+This is why reviewing your own games afterwards, when the result is more clear,
+is so important.
+The only way to train your intuition is follow it, understand the consequences,
+and correct where you were wrong.
+
+Research is like this. There is a feeling that I have learned to recognize when an idea
+is waiting to form,  but I cannot yet  articulate it. Whenever I have this
+feeling, I shut up and wait, until the words come. Usually, once I manage to find
+the words and formulae to express what I'm thinking, it becomes clear that the idea is bad,  has
+already been published, or --- most commonly --- both. But you don't have to be right very
+often, because in research
+the overall success of your career depends not on the worth of your typical idea,
+but of your best idea.
+When your unconscious mind is repeatedly telling you to go somewhere,
+sometimes that alone is reason to Go.
+
+
+
