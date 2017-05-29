@@ -328,6 +328,9 @@ div.next_post { float: right; text-align: right; }
 .sidebar h1 { font-size: 14pt; padding-bottom: 0; margin-top: 25px; margin-bottom: 0; }
 .author_name { font-size: 12pt; font-family: $helveticaNeue; }
 
+.poem { padding-left: 10px; }
+.poem-attribution { padding-left: 60px; }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
