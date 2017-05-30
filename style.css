@@ -94,15 +94,15 @@ h1 a {
 }
 
 h2 {
-  font-size: 24px;
-}
-
-h3 {
   font-size: 20px;
 }
 
-h4 {
+h3 {
   font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
   color: #666;
 }
 
@@ -401,6 +401,20 @@ div.next_post {
 
 .poem-attribution {
   padding-left: 60px;
+}
+
+.post-archive-list {
+  list-style: none;
+}
+
+.post-archive-item {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.archive-paragraph {
+  margin-top: 0px;
+  padding-bottom: 6px;
 }
 
 .highlight {
