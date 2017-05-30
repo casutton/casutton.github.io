@@ -1,0 +1,31 @@
+---
+layout: page
+---
+
+<div class="row">
+
+<div class="col-xs-1">&nbsp;</div>
+
+<div class="col-xs-10">
+
+  <h1>All Posts</h1>
+  
+<p class="archive-paragraph">
+The entire blog, by year. You may prefer to see these
+organized <a href="by-tag.html">by tag</a>.
+</p>
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
+    <ul class="post-archive-list">
+    {% assign date = currentdate %}
+  {% endif %}
+    <li class="post-archive-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+
+</div>
+</div>

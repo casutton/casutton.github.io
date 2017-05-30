@@ -46,15 +46,15 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
-}
-
-h3 {
   font-size: 20px;
 }
 
-h4 {
+h3 {
   font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
   color: $gray;
 }
 
@@ -330,6 +330,11 @@ div.next_post { float: right; text-align: right; }
 
 .poem { padding-left: 10px; }
 .poem-attribution { padding-left: 60px; }
+
+// special things for the all-posts page
+.post-archive-list { list-style: none; }
+.post-archive-item { padding-top: 3px; padding-bottom: 3px; }
+.archive-paragraph { margin-top: 0px; padding-bottom: 6px; }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
