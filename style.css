@@ -69,6 +69,10 @@ body {
   color: #333;
 }
 
+small {
+  font-size: 10px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
@@ -389,6 +393,14 @@ div.next_post {
 .author_name {
   font-size: 12pt;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.poem {
+  padding-left: 10px;
+}
+
+.poem-attribution {
+  padding-left: 60px;
 }
 
 .highlight {
