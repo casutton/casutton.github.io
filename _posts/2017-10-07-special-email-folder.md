@@ -5,7 +5,7 @@ author: Charles Sutton
 tags:
 - advice
 - email
-date: 2017-08-05 17:00:00
+date: 2017-10-07 17:00:00
 ---
 
 I've tried a lot of different methods to organize my email. None of them work. 
