@@ -84,7 +84,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
 
 # settings for jekyll-paginate as per https://jekyllrb.com/docs/pagination/
 paginate: 5
