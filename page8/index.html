@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>On creating a "companion web site" for talks – The Exclusive Or – On academic, expatriate, and other unusual forms of life.</title>
+    <title>The Exclusive Or – On academic, expatriate, and other unusual forms of life.</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -9,18 +9,11 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="My last research talk, I tried an experiment during the talk. I created a “companion web site” for the talk, which is an online handout including slides, code, links to papers, and a bullet-point abstract. Here’s my first try at an online handout.
-
-" />
-    <meta property="og:description" content="My last research talk, I tried an experiment during the talk. I created a “companion web site” for the talk, which is an online handout including slides, code, links to papers, and a bullet-point abstract. Here’s my first try at an online handout.
-
-" />
+    <meta name="description" content="On academic, expatriate, and other unusual forms of life.">
+    <meta property="og:description" content="On academic, expatriate, and other unusual forms of life." />
     
     <meta name="author" content="The Exclusive Or" />
 
-    
-    <meta property="og:title" content="On creating a "companion web site" for talks" />
-    <meta property="twitter:title" content="On creating a "companion web site" for talks" />
     
 
     <!-- Fonts -->
@@ -63,71 +56,107 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <div class="row">
-<div class="col-sm-8">
+      <div class="posts">
+  
+  <div class="row">
+    <div class="col-sm-8">
+     
+       <article class="post">
 
-<article class="post">
-  <h1>On creating a "companion web site" for talks</h1>
+         <h1><a href="/2012/08/converting-fahrenheit-into-celsius.html">Converting Fahrenheit into Celsius... The Smart Way</a></h1>
 
-  <div class="author">
-By Charles Sutton on December 29, 2016
+         <div class="author">
+By Charles Sutton on August  4, 2012
 </div>
 
 
 
-  <div class="content">
-  <p>My last research talk, I tried an experiment during the talk. I created a “companion web site” for the talk, which is an online handout including slides, code, links to papers, and a bullet-point abstract. Here’s my <a href="http://homepages.inf.ed.ac.uk/csutton/talks/nampi2016-talk-sutton/">first try at an online handout.</a></p>
+         <div class="entry">
+         <p><em>or, from small beginnings…</em></p>
 
-<p>The inspiration was <a href="https://www.edwardtufte.com/tufte/powerpoint">Tufte’s quixotic diatribe against Powerpoint</a>, which recommends written handouts instead of slides. The web site is an attempt to adapt his idea to an all-open all-Internet all-the-time age. Seeing as I have no intention of printing out several hundred paper copies of a handout and carrying them thousands of miles to a research meeting, and that most people have laptops anyway.</p>
+<p>One of the minor challenges of moving from the US to the UK is temperature. People in the UK always discuss the weather, and when they do, they use Celsius. My brain still works in Fahrenheit, so I need to convert typical daily outdoor temperatures in my head, and quickly enough that I can carry on a conversation.</p>
 
-<p>Why the handout? Lectures are limited because speech is linear. If we are conversing, when I haven’t understood what you have said, I can ask you to go back. When you lecture, I cannot do that. If I stop a moment to think more deeply about something that you have said, I run the risk of missing your next point.</p>
+<p>You probably learned a formula in school for doing this. Completely useless. Forget all about it—but you already have, haven’t you? You might remember, if you’re clever, that the formula involves 9, 5, and 32 in some combination. But is it 9/5 or 5/9? Do you add 32, or do you subtract it? And do you do that before or after you multiply? And now people are wondering why you’ve been staring at them for two minutes when all they asked is how hot it was when you were in Seattle last week.</p>
 
-<p>The handout is designed to help with this. By giving you a written summary, and also my slides, you can “go back” and re-read a point that you may have missed. A second role for the online handout is to help you find more details after the talk, to find exactly which papers, which code, and so on, I was referring to.</p>
+<p>The problem is that the equation to convert C to F is too similar to the equation for the reverse, and both equations are too difficult to compute mentally. What we need is a simpler equation, that is easy to remember, and easy to work out quickly in your head.</p>
 
-<p>If the handout really helps, then it raises an even more interesting question. Why the slides?
-Tufte argues vehemently against slides as a replacement for written text. Slides have low resolution, which encourages poor statistical graphics, and encourages hiding details which are vital to assessing an argument in science and engineering. Also, most arguments do not fit into bullet points, because bullet points can convey only linear relationships and nesting. The narrative that you are trying to convey in your talk is likely to be more complex.</p>
+<p>So here’s the trick. You memorise the following correspondences:</p>
 
-<p>In research conferences, we already have a handout for each of our talks, the research paper. So maybe we be presenting scientific talks with no slides at all? If not, why not? Sometimes at a conference, I’ll skim the paper during the talk if I am starting to get confused. Sometimes that helps. But papers are information dense, with long sentences full of qualifying statements designed to forestall potential reviewer criticisms. It can be hard to read dense text while also remaining aware about what the speaker is currently saying. Sometimes I think this a blind spot of Tufte’s, that he leans too heavily on information density as a measure of the quality of a display.</p>
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0 °C</td>
+      <td>=</td>
+      <td>32 °F</td>
+    </tr>
+    <tr>
+      <td>10 °C</td>
+      <td>=</td>
+      <td>50 °F</td>
+    </tr>
+    <tr>
+      <td>20 °C</td>
+      <td>=</td>
+      <td>68 °F</td>
+    </tr>
+    <tr>
+      <td>30 °C</td>
+      <td>=</td>
+      <td>86 °F</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>We can think of the sequence [ slides, audio of talk, online handout, paper ] as attempting to convey the same information at different levels of density. This allows the reader/viewer to choose the appropriate level. But slides and audio are both low density. Do we really need two low density ways of conveying the information?</p>
+<p>Then, to convert any temperature that is near these, approximate 1 °C = 2 °F. This will allow you to convert almost any naturally occurring outdoor temperature in the UK in either direction to within 1° accuracy.</p>
 
-<p>Another way of asking the question is: What are slides good for, when they are good? Tufte does seem to accept that good slides are possible. He admits that perhaps the top 10% of presenters aren’t harmed by Powerpoint’s cognitive style, as their own presenting style is strongly enough developed that they impose it on the software, affordances be damned.</p>
+<p>Let’s try it. As I write the current temperature in Edinburgh is 14 °C. This is 10 °C plus 4° extra. From memory convert the 10 °C to 50 °F. Then convert 4 °C extra to 8 °F extra and add it back on. This gives you 14°C = 58°F. This is not exact, but close enough that you know to wear a jumper. The exact formula is</p>
 
-<p>In the past couple of years, I’ve been experimenting with different slide designs. I may even starting to understand what principles I am aiming at in my slide designs. But I think that’s a topic for another day.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>  14 * 9 / 5 + 32 = 57 F
+</code></pre>
+</div>
 
-  </div>
+<p>Good luck doing that in your head.</p>
 
-</article>
+<p>It tickles me that (maths alert) this is a piecewise linear approximation to a linear function. Mathematically, you would have to believe that a piecewise linear function would be more complicated, but mentally, it’s not. Maybe there’s a deep psychological principle here that scientists will figure out someday.</p>
 
-  
+<p>Until then, quite chilly today, isn’t it?</p>
+
+         </div>
+
+         
 <div class="tags">
     Tags:
    
-    <span class="tag"><a href="/tag/philosophy of powerpoint">philosophy of powerpoint</a></span>, 
+    <span class="tag"><a href="/tag/expat">expat</a></span>, 
    
-    <span class="tag"><a href="/tag/presenting">presenting</a></span>
+    <span class="tag"><a href="/tag/popular">popular</a></span>
    
 </div>
 
 
 
 
-  <div class="row pagenav">
-      
-      <div class="col-xs-6 prev_post"><a href="/2015/11/gtd-made-simple-why-i-think-internet.html">&larr; GTD Made Simple: Why I think the Internet needs one more blog post about "Getting Things Done"</a></div>
-      
-      
-      <div class="col-xs-6 next_post"><a href="/2017/06/brain-go.html">Where your brain wants to Go &rarr;</a></div>
-      
-  </div>
+       </article>
+	 
 
+	 <!-- Pagination links -->
+	 <div class="pagination">
+	   
 
-  
+	   
+	   <a href="/page7" class="newer">Newer Posts &rarr;</a>
+	   
+	 </div>
+	 </div>
 
-
-  </div>
-
-  	 <div class="sidebar col-sm-4">
+	 	 <div class="sidebar col-sm-4">
 	   <p class="author_name">by <a href="http://homepages.inf.ed.ac.uk/csutton/">Charles Sutton</a></p>
 
 	   <h1>Recent Posts</h1>
@@ -328,9 +357,9 @@ By dint o' Greek!
 
 	 </div>
 
-  
-</div>
 
+  </div>
+</div>
 
     </div>
 
@@ -355,8 +384,8 @@ By dint o' Greek!
 
 		ga('create', 'UA-99627066-1', 'auto');
 		ga('send', 'pageview', {
-		  'page': '/2016/12/on-creating-companion-web-site-for-talks.html',
-		  'title': 'On creating a "companion web site" for talks'
+		  'page': '/page8/',
+		  'title': ''
 		});
 	</script>
 	<!-- End Google Analytics -->
