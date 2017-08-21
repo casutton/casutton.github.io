@@ -395,6 +395,11 @@ div.next_post {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.fa-sidebar {
+  font-size: 18px;
+  padding-right: 4px;
+}
+
 .poem {
   padding-left: 10px;
 }
