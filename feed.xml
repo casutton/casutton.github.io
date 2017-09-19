@@ -1,4 +1,104 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2017-09-03T13:12:49+01:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">The not-so-great checked vs carry on debate</title><link href="http://www.theexclusive.org//2017/09/pack-bags.html" rel="alternate" type="text/html" title="The not-so-great checked vs carry on debate" /><published>2017-09-02T18:00:00+01:00</published><updated>2017-09-02T18:00:00+01:00</updated><id>http://www.theexclusive.org//2017/09/pack-bags</id><content type="html" xml:base="http://www.theexclusive.org//2017/09/pack-bags.html">&lt;p&gt;This time, some advice of a lighter sort. How light? Depends how well you pack!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2017-09-19T14:07:31+01:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">Does the world need one more blog about arxiv and double blind review?</title><link href="http://www.theexclusive.org//2017/09/arxiv-double-blind.html" rel="alternate" type="text/html" title="Does the world need one more blog about arxiv and double blind review?" /><published>2017-09-19T13:00:00+01:00</published><updated>2017-09-19T13:00:00+01:00</updated><id>http://www.theexclusive.org//2017/09/arxiv-double-blind</id><content type="html" xml:base="http://www.theexclusive.org//2017/09/arxiv-double-blind.html">&lt;p&gt;There has been a &lt;a href=&quot;https://gridworld.wordpress.com/2015/07/20/arxiv-heaven-or-hell/&quot;&gt;lively&lt;/a&gt; &lt;a href=&quot;https://chairs-blog.acl2017.org/2017/03/02/arxiv-and-double-blind-reviewing-revisited/&quot;&gt;debate&lt;/a&gt; &lt;a href=&quot;https://chairs-blog.acl2017.org/2017/02/19/arxiv-and-the-future-of-double-blind-conference-reviewing/&quot;&gt;recently&lt;/a&gt; about the review process for research paper submissions, and how to deal with the fact that double-blind review becomes more difficult when many papers are prepublished on sites like arxiv.org before submission.&lt;/p&gt;
+
+&lt;p&gt;I’m going to start from two assumptions:
+&lt;em&gt;double blind reviewing is good&lt;/em&gt; and &lt;em&gt;prepublication is good.&lt;/em&gt; 
+You can disagree with either assumption, or you could think that double-blind
+is so much more important than than prepublication that it should
+be preserved at all costs, or vice versa. People hold all of those views,
+and it would take an even longer post to pull all that apart.&lt;/p&gt;
+
+&lt;p&gt;Instead, I’d to think about how to reconcile these two assumptions, because I do believe them both, and how to obtain an engineering trade-off that aims at most of the advantages of both, most of the time.&lt;/p&gt;
+
+&lt;p&gt;A lot of people have said that allowing papers to be prepublished anonymously would be a good compromise. An appealing idea, but
+I worry that it may be
+a bad one. Instead, I’ll argue that a good compromise is this:  Accept that papers will be de-blinded, but design the double-blind review process to compensate.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the underlying point is that the conflict isn’t black and white. For double blind to work, it’s not necessary for 100% of the submissions to be unblind&lt;em&gt;able&lt;/em&gt;, i.e., have their author identities be undiscoverable online. I might even suggest that it’s possible to have effective double blind when &lt;em&gt;all author identities&lt;/em&gt; are available online. Just because a paper is unblind&lt;em&gt;able&lt;/em&gt; does not mean that the reviewers are unblind&lt;em&gt;ed&lt;/em&gt; — perhaps they have not seen it, or perhaps they saw it in an email with 100 other papers and don’t remember having seen it.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-shouldnt-we-do&quot;&gt;What shouldn’t we do?&lt;/h2&gt;
+
+&lt;p&gt;There are some recommendations that I’ve seen that unfortunately I don’t think will work.&lt;/p&gt;
+
+&lt;h3 id=&quot;anti-recommendation-1-i-know-lets-have-an-anonymous-version-of-arxiv&quot;&gt;Anti-Recommendation 1: I know. Let’s have an anonymous version of arxiv.&lt;/h3&gt;
+
+&lt;p&gt;Lots of people have suggested allowing authors to prepublish papers
+anonymously (incidentally, there are &lt;a href=&quot;http://www.mhhe.com/math/calc/smithminton2e/cd/tools/timeline/bernoulli_1.html&quot;&gt;amusing precendents for this&lt;/a&gt; in the history of mathematics). This could be implemented via an overlay of arxiv, or a new feature added to arxiv itself, that would allow authors to temporary hide their identity. Let’s call this AnonArxiv.&lt;/p&gt;
+
+&lt;p&gt;Submissions to AnonArxiv would be immediately available to all but without the author names. Then, once the paper is accepted, AnonArxiv would reveal the author names, while preserving the time stamp of the anonymous submission. The conference would then require that if submissions are prepublished, they must be prepublished anonymously; any other prepublished submissions will be rejected without review.&lt;/p&gt;
+
+&lt;p&gt;I used to think this was a cool idea. Now I don’t. It neglects a 
+fundamental principle that we are sadly all familiar with,
+that &lt;em&gt;most papers are rejected&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let’s say I post a great paper to AnonArxiv and submit it to ACL. Like most papers it is rejected. I’m convinced that the reviewers have made a mistake, and so I want to resubmit it to EMNLP. How do we handle this?&lt;/p&gt;
+
+&lt;p&gt;We could (1) require resubmissions to remain anonymous. After rejection, I must choose whether to unblind the submission on AnonArxiv, in which case it cannot be resubmitted to other conferences, or whether to keep the submission anonymous, in which case the paper could spend a year-plus as anonymous, until it is finally accepted. This seems an unreasonable choice to force onto authors.&lt;/p&gt;
+
+&lt;p&gt;Or we could (2) allow authors, after one rejection, to unblind their AnonArxiv submissions and resubmit to a future conference. This has the benefit that papers only spend a few months as public-but-anonymous, which is not so bad.
+But I’m not sure it works. For one, this is difficult to enforce, because apart from the honor system, the information about whether a paper was previously submitted is confidential (keep in mind that the original submission might have been outside the NLP community). But more fundamentally, what would we do for first-time submissions that violate this rule, reject them without review? How would we justify doing that when there are many second-time submissions whose authors are already public?&lt;/p&gt;
+
+&lt;p&gt;This would also mean that if I submit a paper to a conference outside of NLP which allows prepublication and get rejected, I would not be able subsequently decide that an NLP conference would be a better fit, and resubmit there. It might be possible to implement a special dispensation in this case, though.&lt;/p&gt;
+
+&lt;p&gt;With some regret, I come to the conclusion that AnonArxiv won’t work. That said, AnonArxiv variant (2) might work if a large enough percentage of submissions were first time submits. Then we’d have the majority of the papers on AnonArxiv, and hence unblindable, which might be good enough.&lt;/p&gt;
+
+&lt;h3 id=&quot;perhaps-anti-recommendation-require-prepublication-to-be-declared&quot;&gt;Perhaps Anti-Recommendation: Require prepublication to be declared&lt;/h3&gt;
+
+&lt;p&gt;ACL 2017 required all submissions to &lt;a href=&quot;http://acl2017.org/calls/papers/#multiple-submission-policy&quot;&gt;declare if they had been prepublished&lt;/a&gt;. Reviewers were notified that a paper had been prepublished. Prepublished papers that were not declared as such were summarily rejected. Unfortunately I don’t understand the rationale for how this stringent requirement was meant to help. Remember, the goal is not to prevent all papers from being unblind-&lt;em&gt;able&lt;/em&gt;, it’s to prevent too many papers from being unblind-&lt;em&gt;ed&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This could be a good idea if the hope is to warn reviewers that they should be careful about searching the web for the paper’s title during the review process. The problem with this idea though, is that it does not help if the authors very reasonable prepublish the paper just &lt;em&gt;after&lt;/em&gt; submission. So really, all reviewers need to be careful, all the time, and the extra heads up maybe isn’t too helpful.&lt;/p&gt;
+
+&lt;p&gt;If the idea was to simply to gain more information about how many papers are prepublished, then I totally agree with asking the question, but I do not see why penalties for non-compliance were necessary.&lt;/p&gt;
+
+&lt;p&gt;If the idea was to handle prepublished papers differently in the review process than non-prepublished ones, then I am not sure why this is necessary. Instead, I’ll advocate below that we handle the review process of &lt;em&gt;unblinded&lt;/em&gt; papers differently.&lt;/p&gt;
+
+&lt;p&gt;So I would argue that it might make sense for conferences to request that authors declare prepublication, but that no penalties for noncompliance be used in future years.&lt;/p&gt;
+
+&lt;h3 id=&quot;recommendation-but-thats-actually-an-orthogonal-issue-lets-use-openreviewnet&quot;&gt;Recommendation-But-That’s-Actually-An-Orthogonal-Issue: Let’s use &lt;a href=&quot;http://www.openreview.net&quot;&gt;OpenReview.Net&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I’ve also read the suggestion that the NLP community switch to running conferences on OpenReview. I love OpenReview, and I eagerly await the day when I can go onto a site like OpenReview and pull up any paper in computer science, from any venue, from any year past or present, and find a lively and informative discussion online.&lt;/p&gt;
+
+&lt;p&gt;But OpenReview is a software platform, not a reviewing process. It’s &lt;a href=&quot;https://openreview.net/pdf?id=xf0zSBd2iufMg&quot;&gt;specifically designed&lt;/a&gt; to allow conference chairs to configure what information about the reviews and authors should be made public and when. It’s not designed to answer the policy questions about whether submissions should be anonymous and what happens after they are rejected.&lt;/p&gt;
+
+&lt;h2 id=&quot;all-right-wise-guy-so-&quot;&gt;All right, wise guy, so …?&lt;/h2&gt;
+
+&lt;p&gt;One way to square the circle is to try adapting reviewing norms to adjust and compensate for the fact that it is more likely for papers to be unblinded.&lt;/p&gt;
+
+&lt;p&gt;Conferences are already doing these things, so I don’t claim to have any new ideas. But I think it’s useful to bring together the arguments for these ideas, rather than having programme chairs have to reconstruct these arguments for themselves every year.&lt;/p&gt;
+
+&lt;h3 id=&quot;recommendation-1-clarify-norms-for-reviewers&quot;&gt;Recommendation 1: Clarify Norms for Reviewers&lt;/h3&gt;
+
+&lt;p&gt;Even if the author information for all submissions are public online, then reviewers, area chairs, and programme chairs can take steps to reduce the chances that a submission is unblinded, and to minimize the consequences when one is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reviewers&lt;/strong&gt; should avoid making Web searches that would be likely to reveal the authors of the paper. It can often happen that a well-meaning search for related work inadvertently turns up an unblinded copy of the paper. I am not saying that reviewers should never search for related work, but it carries risks — it always has (ten years ago I had a reviewer of one of my papers deblinded by a tech report) — and reviewers should try to avoid it.&lt;/p&gt;
+
+&lt;p&gt;If the reviewer feels that a Web search is necessary, they should hold off until they have read the paper completely and formed an initial impression of it. This allows reviewers to apply the bias of cognitive dissonance to counteract the potential bias of unblinding.&lt;/p&gt;
+
+&lt;p&gt;If reviewers learn the author identities, then they must let the relevant person — who could variously go by the title “programme chair”, “programme committee member”, “meta-reviewer”, “senior PC member”, “area chair”, etc; I’ll use the term “area chair” (AC) — know this right away.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Area chairs&lt;/strong&gt; should be prepared to apply their judgment to weigh the reviewers’ comments differently when some reviewers are unblinded. Consider a paper like this: it has two negative reviews and one positive review, but the positive reviewer has been unblinded, the paper comes from a famous group so there is possibility of unconscious bias, and the AC believes that the negative comments have merit. Then the AC should be prepared to give less weight to the positive reviewer. In other examples, perhaps all three reviews are positive, or the authors are lesser-known, and so unlikely to engender positive bias. Then downweighting unblinded reviewers may not be necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programme chairs&lt;/strong&gt; should carefully write their instructions to reviewers and area chairs to make these expectations clear. They should also be prepared to assist ACs with borderline cases where there is possibility of bias.&lt;/p&gt;
+
+&lt;p&gt;We don’t know if these steps alone will reduce the percentage of unblind-&lt;em&gt;ed&lt;/em&gt; submissions to an acceptable level. For example, if the percentage of unblinded reviews reaches, say, 80%, this recommendation becomes more like a band-aid that would be unlikely to preserve the benefits of double-blind review. Which brings us to the next point.&lt;/p&gt;
+
+&lt;h3 id=&quot;recommendation-2-measure-and-monitor&quot;&gt;Recommendation 2: Measure and Monitor&lt;/h3&gt;
+
+&lt;p&gt;Much of the heat around this discussion may be because we are, as it were, debating in the blind. It is not difficult to gather more evidence than we have now:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We should be able to measure and publicize the percentage of submissions and accepted papers which are prepublished.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Although a bit more delicate, we should be able to estimate the percentage of submissions which are not first time submits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If we follow recommendation 1, we should also be able to monitor the percentage of reviews which are unblinded and the percentage of submissions which have had 1, 2, or 3 unblinded reviews.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We should also attempt to record measures of diversity in the accepted papers in terms of authors and institutions. We should keep tracking those measures, monitor for decreases, and the presumed negative correlation with percentage of unblindedness.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="publication models" /><summary type="html">There has been a lively debate recently about the review process for research paper submissions, and how to deal with the fact that double-blind review becomes more difficult when many papers are prepublished on sites like arxiv.org before submission.</summary></entry><entry><title type="html">The not-so-great checked vs carry on debate</title><link href="http://www.theexclusive.org//2017/09/pack-bags.html" rel="alternate" type="text/html" title="The not-so-great checked vs carry on debate" /><published>2017-09-02T18:00:00+01:00</published><updated>2017-09-02T18:00:00+01:00</updated><id>http://www.theexclusive.org//2017/09/pack-bags</id><content type="html" xml:base="http://www.theexclusive.org//2017/09/pack-bags.html">&lt;p&gt;This time, some advice of a lighter sort. How light? Depends how well you pack!&lt;/p&gt;
 
 &lt;p&gt;I hear a lot of frequent air travelers say that you should never check bags if you can avoid it, but I think it’s not always clear cut.&lt;/p&gt;
 
@@ -268,28 +368,4 @@ Tufte argues vehemently against slides as a replacement for written text. Slides
 
 &lt;p&gt;Here’s my tip. When a big group students from the same institution go to the same conference, they’ll often hang out together all the time: at meals, coffee breaks, etc. This isn’t a great strategy on their part, but you can exploit this. Once you make friends with one person in the group, now you can go with your new friend to lunch with everyone else in the group. Voila, now you have a network!&lt;/p&gt;
 
-&lt;p&gt;This is a general principle of networking (horrible name, but incredibly important if done honestly and well): Cool people will help you to meet other cool people. And once you’ve been around long enough, you can return the favour!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><summary type="html">One of my PhD students is on his way to his first academic conference. Conferences are one of my favourite parts of research: I’ve met so many interesting people and started so many fun collaborations that way.</summary></entry><entry><title type="html">Viva la voce</title><link href="http://www.theexclusive.org//2015/04/viva-la-voce.html" rel="alternate" type="text/html" title="Viva la voce" /><published>2015-04-11T13:39:00+01:00</published><updated>2015-04-11T13:39:00+01:00</updated><id>http://www.theexclusive.org//2015/04/viva-la-voce</id><content type="html" xml:base="http://www.theexclusive.org//2015/04/viva-la-voce.html">&lt;p&gt;One of my favourite aspects of academia in the UK is the final oral examination for the PhD — formally called a &lt;em&gt;viva voce&lt;/em&gt;, which everyone seems to call a &lt;em&gt;viva&lt;/em&gt; (VEYE-vah). The viva is an oral examination that typically consists of the student and two examiners, one from within the University (the internal examiner), and one from outwith the university (the external examiner).&lt;/p&gt;
-
-&lt;p&gt;Both examiners read the thesis carefully, and ask the student detailed questions. The traditional way to do this is that all three have a paper copy of the thesis, and the examiners go through the thesis page by page with their questions. Some questions are high level (“Why did you choose technique X rather than technique Y?”) and some can be very detailed (“In your proof of Theorem 4.3 on page 176, I’m not sure that the third step is correct. What if the matrix A is non-singular?”).&lt;/p&gt;
-
-&lt;p&gt;This discussion commonly takes 2-3 hours. Longer and shorter vivas are not unheard of, though if you ask me, a one-hour viva is a bit of a rip-off for the student, and a five-hour viva isn’t kind, unless the length is caused by the student being exceptionally argumentative or loquacious.&lt;/p&gt;
-
-&lt;p&gt;At the end of the viva, the student is asked to wait outside, and the examiners decide whether the student should be awarded a PhD, and if so what corrections to the thesis are required. The most common outcome is a pass subject to minor corrections, which the student is allowed a few months to complete.&lt;/p&gt;
-
-&lt;p&gt;Essentially, in my experience a viva is a detailed technical discussion of the content of the thesis. Most students start out nervous, sometimes exceedingly so, but relax after a few questions as they realize that this is just a technical discussion of the sort that they have had many times before. That said, even if your research career is long, it is rare that a trusted colleague will provide you with several hours of detailed feedback on your work. To be part of a discussion like this, on either side of the table, is a privilege: most work is ignored, so any criticism is a compliment.&lt;/p&gt;
-
-&lt;p&gt;I am sure that the process is more tense if the examiners believe that the quality of the thesis is borderline — fortunately, I haven’t yet been asked to examine a thesis like that. If portions of your thesis have already been published in prestigious venues, and whether this is possible at all varies greatly across disciplines, then you can be fairly sure that your thesis is not near the borderline.&lt;/p&gt;
-
-&lt;p&gt;A colleague suggested to me once that a viva is like a negotiation. If your thesis represents a sufficient amount of research of acceptable quality (and if it was indeed you that wrote it), then you will pass. The negotiation is over which corrections will be required. Responsible examiners do not want to require additional experiments that will require months of work, if the thesis as submitted is of excellent quality. But they also don’t want a thesis to be passed with gaping holes in its argumentation. The purpose of the discussion is to sort out which potential concerns are which, and your voice in this discussion matters — you wrote the thesis, so you are the expert in the room.&lt;/p&gt;
-
-&lt;p&gt;Sometimes an examiner asks a question with an eye to a correction being required. Maybe you think, “yeah, that’s a good point, I should add a paragraph on that” — in this case, don’t hesitate to say so. On the other hand, if providing a good answer to the examiner’s question would require months of additional research, politely explain why, while also giving the best answer you can given what you do know. What you don’t want to do is argue every point strongly, even when the examiners are clearly right… that is not good negotiation strategy.&lt;/p&gt;
-
-&lt;p&gt;A bit more about who attends the viva. The internal examiner is &lt;em&gt;not&lt;/em&gt; the supervisor, in fact, they will not have been involved with the thesis research at all. It is not unusual for the internal examiner to be a bit of generalist with respect to the thesis topic, although when I have served as internal, I have usually been able to make out the thesis reasonably well. Presumably this is because the School of Informatics is large enough that there are many theses in machine learning and natural language processing that need to be examined.&lt;/p&gt;
-
-&lt;p&gt;The external examiner is chosen specifically for their expertise in the subject matter, and to serve as an external is generally seen as a minor indicator of prestige. A certain amount of deference is paid to the external in the culture of the process. Even so, I have the sense that part of the role of the internal is to be accountable to the University (for following correct procedures) and to the student and the supervisor (to make sure that the examination is fair to the student). I have read and heard horror stories of aggressive external examiners but never witnessed one; to the contrary, the examiners who I have witnessed have all gone out of their way to be kind to the student.&lt;/p&gt;
-
-&lt;p&gt;The role of the supervisor in the viva, I think that this may vary slightly across institutions. At Edinburgh, the supervisor is allowed to attend the viva, if the student permits, but not to participate in any way. In my experience as internal examiner, the supervisor has attended about half the time. One supervisor silently took notes to share with the student, which I think is quite a kind thing to do.&lt;/p&gt;
-
-&lt;p&gt;Finally, although the description is written for a US audience, British academia also fetaures &lt;a href=&quot;http://www.mcsweeneys.net/articles/faq-the-snake-fight-portion-of-your-thesis-defense&quot;&gt;the snake fight portion of your viva&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(Written in honour of my first PhD student graduating. Congratulations Yichuan!)&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="britain" /><category term="advice" /><category term="academic customs" /><summary type="html">One of my favourite aspects of academia in the UK is the final oral examination for the PhD — formally called a viva voce, which everyone seems to call a viva (VEYE-vah). The viva is an oral examination that typically consists of the student and two examiners, one from within the University (the internal examiner), and one from outwith the university (the external examiner).</summary></entry></feed>
+&lt;p&gt;This is a general principle of networking (horrible name, but incredibly important if done honestly and well): Cool people will help you to meet other cool people. And once you’ve been around long enough, you can return the favour!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><summary type="html">One of my PhD students is on his way to his first academic conference. Conferences are one of my favourite parts of research: I’ve met so many interesting people and started so many fun collaborations that way.</summary></entry></feed>
