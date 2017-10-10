@@ -8,7 +8,7 @@ tags:
 date: 2017-10-07 17:00:00
 ---
 
-I've tried a lot of different methods to organize my email. None of them work. 
+I've tried a lot of different methods to organize my email. None of them work.
 
 After many years of trying, I've come to the conclusion that the Gmail solution of "put all the email in one bucket and search" is the way to go. Over the years I have gotten very, very good at searching my email. But that's a topic for another day.
 
@@ -19,3 +19,8 @@ What could be so special? Emails to pick me up when I'm feeling down. You know w
 You might ask why these are *professional* emails. Hopefully I've had happy things happen in my personal life as well? Don't be too worried. It's just that my personal life doesn't usually happen over email. That's what my wedding photos are for!
 
 I got this idea from a blog post somewhere by some other professor, but I don't remember who or where. If you do, please let me know in the comments!
+
+*Update*: Rob Zinkov has kindly reminded me that I learned about this idea
+from the excellent [7 year postdoc](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/) blog post
+by Radhika Nagpal about
+life for new faculty members. Thanks!
