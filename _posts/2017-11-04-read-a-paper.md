@@ -28,4 +28,4 @@ Another way of saying this: I know that my imaginary Very Smart Friend will jump
 
 It can also be good to try this exercise even before you are done. After reading the introduction, how well can you guess what the methods will be, even before you read them? Then read to see if you were right.
 
-To sum up, I hope that I've convinced you that having an imaginary friend can help you in your research. You might not want to tell everyone on the internet that you have an imaginary friend, as I have just done, because it might not improve their level of respect for you.  But hey, if it's good for your research, then where are your priorities?
+To sum up, I hope that I've convinced you that having an imaginary friend can help you in your research. You might not want to tell everyone on the internet that you have an imaginary friend, as I have just done, because it might not improve their respect for you.  But hey, if it's good for your research, then where are your priorities?
