@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2017-11-08T21:14:49-08:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">How to read a research paper</title><link href="http://www.theexclusive.org//2017/11/read-a-paper.html" rel="alternate" type="text/html" title="How to read a research paper" /><published>2017-11-04T10:00:00-07:00</published><updated>2017-11-04T10:00:00-07:00</updated><id>http://www.theexclusive.org//2017/11/read-a-paper</id><content type="html" xml:base="http://www.theexclusive.org//2017/11/read-a-paper.html">&lt;p&gt;There’s lots of advice you can read about how to read a research paper. There’s some good advice in this paper:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2017-11-12T13:38:44-08:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">To PhD applicants: A word about department rankings</title><link href="http://www.theexclusive.org//2017/11/cs-rankings.html" rel="alternate" type="text/html" title="To PhD applicants&amp;#58; A word about department rankings" /><published>2017-11-12T04:00:00-08:00</published><updated>2017-11-12T04:00:00-08:00</updated><id>http://www.theexclusive.org//2017/11/cs-rankings</id><content type="html" xml:base="http://www.theexclusive.org//2017/11/cs-rankings.html">&lt;p&gt;When I was applying for my PhD, I used rankings of computer science
+departments to help me decide where to apply.
+Rankings are never perfect, but I didn’t have access to
+detailed knowledge of the research landscape,
+and the rankings helped to steer me in the right direction.
+In retrospect, I can see that the rankings were not perfect, and
+I made one or two silly mistakes about where to apply,
+but I would have made even more silly mistakes without them.&lt;/p&gt;
+
+&lt;p&gt;I’m saying this to give you this context:
+I’m not anti-ranking. Very possibly rankings have had a negative effect
+on higher education overall, but they can be useful if done right, and if
+you read them in the right way.&lt;/p&gt;
+
+&lt;p&gt;The Computing Research Association has just released a statement
+&lt;a href=&quot;https://cra.org/cra-statement-us-news-world-report-rankings-computer-science-universities/&quot;&gt;urging everyone to ignore the new rankings&lt;/a&gt; of global computer science departments
+from US News and World Report. I’m sorry to see this, because I found the US News rankings
+helpful when I was an undergraduate. But I’ve read the new US News rankings, and I have to agree with the CRA.&lt;/p&gt;
+
+&lt;p&gt;These US News rankings are absurd. They are garbage. No one should read them,
+and I won’t even link to them. You can find them easily via a search engine. Please don’t. The ranking
+methodology is flawed, for a simple reason that any computer science researcher
+could tell them immediately. And we did. Influential researchers in computer science
+pointed out the flaws directly to editors at US News; they were ignored.
+I don’t know why the editors of US News would ignore this feedback,
+unless they cared a lot about creating a controversy that would generate
+page views, and not at all about helping students who are applying
+for their PhD.&lt;/p&gt;
+
+&lt;p&gt;I’ll repeat: &lt;strong&gt;Please do not read these rankings at all, not even if you intend take my advice and ignore them.&lt;/strong&gt; If you click on them, even to laugh at them,
+you are spending advertisers’ money to support this magazine in misleading
+ PhD applicants
+who are not as well informed as you.&lt;/p&gt;
+
+&lt;p&gt;My advice: If you need rankings, instead go to
+&lt;a href=&quot;http://csrankings.org/&quot;&gt;CSRankings.org&lt;/a&gt;. This is a fully open ranking from &lt;a href=&quot;https://emeryberger.com/&quot;&gt;Prof Emery Berger&lt;/a&gt; at UMass Amherst that ranks global computer science departments
+directly by the amount of research they produce. You can filter
+the rankings by geographic area and research area. No ranking is perfect, but this is defensible and open.&lt;/p&gt;
+
+&lt;p&gt;I mentioned that rankings are only useful if you read them correctly.
+Here are some thoughts about how to do that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Overall ranking is not the same as subject specific ranking.
+The department ranked #50 isn’t ranked that way because its research is #50
+in every area of CS. Instead, it will have some research areas that are #50 —
+which is still pretty damn good — but a few groups that are in
+the top five. If you are in one of those top groups, then you are in a top group, with all the same excitement and opportunity as the top groups
+at a bigger name school.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Disregard small differences in ranking. Ranking is an ill-defined
+problem, so you can’t take small differences seriously. As far as overall strength goes,
+the school ranked #1 is exactly the same as the school ranked #5.
+Exactly the same. But #1 is going to be overall stronger than #18.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For your PhD, what matters most is your supervisor and their group,
+rather than the department overall. This relates to what I said
+above, and is probably worth a blog post of its own.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rankings are not life. The distinctions that we are talking about
+here are small distinctions at the very top. The school ranked #100
+— I haven’t looked up what it is — is a fine university with brilliant
+researchers where you will learn a lot. Here’s an analogy. The weakest football player in the English Premier League, who spends most of his time on
+the bench, is still a prodigiously talented football
+player who would run circles around anyone who you and I have ever met. The difference between Lionel Messi and that guy — that’s the level of difference we’re talking about here.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The key point: &lt;strong&gt;Use rankings as a way to discover departments&lt;/strong&gt;
+you didn’t know about that are strong in your area. Don’t use them
+as a way to decide between departments: For that, you should be reading
+the work of potential supervisors that interest you. Doing a PhD is about
+learning to do research. What types of papers do you want to write?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="phd applications" /><summary type="html">When I was applying for my PhD, I used rankings of computer science
+departments to help me decide where to apply.
+Rankings are never perfect, but I didn’t have access to
+detailed knowledge of the research landscape,
+and the rankings helped to steer me in the right direction.
+In retrospect, I can see that the rankings were not perfect, and
+I made one or two silly mistakes about where to apply,
+but I would have made even more silly mistakes without them.</summary></entry><entry><title type="html">How to read a research paper</title><link href="http://www.theexclusive.org//2017/11/read-a-paper.html" rel="alternate" type="text/html" title="How to read a research paper" /><published>2017-11-04T10:00:00-07:00</published><updated>2017-11-04T10:00:00-07:00</updated><id>http://www.theexclusive.org//2017/11/read-a-paper</id><content type="html" xml:base="http://www.theexclusive.org//2017/11/read-a-paper.html">&lt;p&gt;There’s lots of advice you can read about how to read a research paper. There’s some good advice in this paper:&lt;/p&gt;
 
 &lt;p&gt;S. Keshav. &lt;a href=&quot;http://ccr.sigcomm.org/online/files/p83-keshavA.pdf&quot;&gt;How to read a paper&lt;/a&gt;. ACM SIGCOMM Computer Communication Review, 37(3):83–84, 2007.&lt;/p&gt;
 
@@ -331,68 +414,4 @@ Tufte argues vehemently against slides as a replacement for written text. Slides
 
 &lt;p&gt;Another way of asking the question is: What are slides good for, when they are good? Tufte does seem to accept that good slides are possible. He admits that perhaps the top 10% of presenters aren’t harmed by Powerpoint’s cognitive style, as their own presenting style is strongly enough developed that they impose it on the software, affordances be damned.&lt;/p&gt;
 
-&lt;p&gt;In the past couple of years, I’ve been experimenting with different slide designs. I may even starting to understand what principles I am aiming at in my slide designs. But I think that’s a topic for another day.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="philosophy of powerpoint" /><category term="presenting" /><summary type="html">My last research talk, I tried an experiment during the talk. I created a “companion web site” for the talk, which is an online handout including slides, code, links to papers, and a bullet-point abstract. Here’s my first try at an online handout.</summary></entry><entry><title type="html">GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”</title><link href="http://www.theexclusive.org//2015/11/gtd-made-simple-why-i-think-internet.html" rel="alternate" type="text/html" title="GTD Made Simple: Why I think the Internet needs one more blog post about &quot;Getting Things Done&quot;" /><published>2015-11-21T09:28:00-08:00</published><updated>2015-11-21T09:28:00-08:00</updated><id>http://www.theexclusive.org//2015/11/gtd-made-simple-why-i-think-internet</id><content type="html" xml:base="http://www.theexclusive.org//2015/11/gtd-made-simple-why-i-think-internet.html">&lt;p&gt;I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called &lt;a href=&quot;http://www.amazon.co.uk/Getting-Things-Done-Stress-free-Productivity/dp/0349408947&quot;&gt;Getting Things Done&lt;/a&gt;. The book is an unusual read, a mix of management-speak, Zen-speak, and tips for organizing your filing cabinet. But for all that, it’s a good book.&lt;/p&gt;
-
-&lt;p&gt;GTD has become popular with many different types of people. It is especially popular with tech people on the Internet. It’s a bit of &lt;a href=&quot;http://www.wired.com/2007/09/ff-allen/&quot;&gt;a geek cult&lt;/a&gt;, which is strange. Why are computer programmers singing praises for a management consultant? Indeed, why are university professors?&lt;/p&gt;
-
-&lt;p&gt;Lots of people on the Internet have been writing about GTD. It can be hard to get started. For one, the book itself, the writing isn’t always succinct. Also, cleaning up your to do list and blogging about it is a good way to procrastinate. So, there are lots of blog posts out there about GTD. Lots.&lt;/p&gt;
-
-&lt;p&gt;I have been trying to figure out a way to explain GTD that makes clear how simple it is.&lt;/p&gt;
-
-&lt;p&gt;Look, you need a to do list. It will clear your head so that you can concentrate on your work. That’s it. That’s GTD.&lt;/p&gt;
-
-&lt;p&gt;But you’ve tried this already. It helped for a little bit, but then it stopped helping. This is where GTD gets interesting. It’s based on an extraordinarily perceptive understanding of why to do lists stop working. They can stop working because:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;You haven’t written everything down.&lt;/em&gt; To do lists become way better when they contain literally everything that you have to do in life. If they don’t, then deep down in your mind, you will always know that you’ve got stuff to do that isn’t written down, so you spend mental focus trying to remember those things. It’s like if you tried to keep a calendar but only wrote down half of your appointments in it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Your list is too vague.&lt;/em&gt; If you write down something like “Dentist” on your to do list, every time you see it, you need a little mental energy to work out what that meant and plan what you need to do about it. But after you’ve done that planning, you don’t &lt;em&gt;do&lt;/em&gt; anything about it, because you were just scanning your to do list and right now you need to do something else instead. This makes you anxious. And if you read “Dentist” without taking that effort, then you still feel anxious because it reminds you that there’s something you need to do and you’re not sure what it is.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Your list is too long.&lt;/em&gt; When you’re not sure what to do, you need to be able to scan your list quickly to decide what to do next.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;You can’t find items right when you need them.&lt;/em&gt; If you’re about to drive past the hardware store, you need to be able to stop in the parking lot and quickly find the list of stuff that you’d been meaning to buy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;You can’t write down items right when you think of them.&lt;/em&gt; When you notice you’re running low on toilet paper, you’re not usually in the grocery store at the time. But you still want to record this right then, so you don’t have to remember it until you’re walking past the shop the next day.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Your list doesn’t keep up with your life.&lt;/em&gt; Gradually you get more and more things to do that just don’t make it on to your list.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;You don’t compare your list to your bigger goals.&lt;/em&gt; Urgent things aren’t always important, and it’s easy to let days slip by you. You need to think about what’s most important in your career and your life, and your to do list needs to contain actions that help make the important things happen.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;GTD is a system for keeping lists that is designed to avoid these problems. GTD doesn’t care where you keep your lists or how you store them — this is why geeks love GTD, so that they can keep arguing about what software is best. But you don’t need software. Paper works fine. What you need are principles to guide you.&lt;/p&gt;
-
-&lt;p&gt;The main principles of GTD are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Record everything.&lt;/em&gt; Everything that you need to do.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Record everywhere.&lt;/em&gt; No matter where you are, you need a way to write things down so that they will end up on your list.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Organize by context.&lt;/em&gt; You want multiple to do lists, organized so that when you scan a list, it contains only things that you could do right then, if you decided to. You might have a list of people you need to call, a list of things to do at a computer, a list of things to do at home, etc.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Specific measurable actions.&lt;/em&gt; This the caveat to “record everything”. If it goes on your list, it needs to be something specific, that you could do right away, finish, and tick off. Instead of writing “Dentist”, you should write, “Email Morag to ask for dentist recommendations”. When you read an item on your list, you don’t want to think “Oh, what was that?” — you want to think “Ah, I can do that!”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Small specific projects.&lt;/em&gt; A project is anything that takes multiple specific actions to accomplish, even if it’s only 2 or 3.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Plan naturally.&lt;/em&gt; For any project, work out what you need to do on the sheet of paper, and add to your list the actions that you can do right away. Actions that you need to do later down the line, they don’t go on your list.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Review weekly.&lt;/em&gt; Check your calendar and your notes to see if there’s anything that you need to do that you haven’t written down yet. Think about your longer term projects and goals and make sure your lists have actions that help with them.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;How you organise a set of lists, and supporting files, to meet these principles, that’s what the book is about. It may not always seem so from the surface, but the book is full of clever little tricks. That’s another reason why the book can be deceptive: It’s easy to admire the tricks but not understand the system. But if you really understand the principles, then the practice becomes much more clear.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="productivity" /><summary type="html">I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-speak, and tips for organizing your filing cabinet. But for all that, it’s a good book.</summary></entry></feed>
+&lt;p&gt;In the past couple of years, I’ve been experimenting with different slide designs. I may even starting to understand what principles I am aiming at in my slide designs. But I think that’s a topic for another day.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="philosophy of powerpoint" /><category term="presenting" /><summary type="html">My last research talk, I tried an experiment during the talk. I created a “companion web site” for the talk, which is an online handout including slides, code, links to papers, and a bullet-point abstract. Here’s my first try at an online handout.</summary></entry></feed>
