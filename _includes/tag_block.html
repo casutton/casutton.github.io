@@ -2,8 +2,7 @@
 <div class="tags">
     Tags:
    {% for tag in include.thingy.tags %}
-    <span class="tag"><a href="/tag/{{ tag }}">{{ tag }}</a></span>{% unless forloop.last %}, {% endunless %}
+    <span class="tag"><a href="{{ tag | tag_url | relative_url }}">{{ tag }}</a></span>{% unless forloop.last %}, {% endunless %}
    {% endfor %}
 </div>
 {% endif %}
-

@@ -1,5 +1,5 @@
 module Jekyll
-  
+
   class TagIndex < Page
     def initialize(site, base, dir, tag)
       @site = site
@@ -14,8 +14,8 @@ module Jekyll
       self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
     end
   end
-  
-  
+
+
   class TagGenerator < Generator
     safe true
     def generate(site)
@@ -26,7 +26,7 @@ module Jekyll
         end
       end
     end
-    
+
     def write_tag_index(site, dir, tag)
       index = TagIndex.new(site, site.source, dir, tag)
       index.render(site.layouts, site.site_payload)
@@ -35,5 +35,12 @@ module Jekyll
     end
   end
 
-  
+  module TagUrlFilter
+    def tag_url(tag_name)
+      return "/tag/#{tag_name}"
+    end
+  end
+
 end
+
+Liquid::Template.register_filter(Jekyll::TagUrlFilter)
