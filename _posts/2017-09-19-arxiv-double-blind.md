@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does the world need one more blog about arxiv and double blind review?
+title: Making unblinding manageable&#58 Towards reconciling prepublication and double-blind review
 author: Charles Sutton
 tags:
 - publication models
@@ -9,8 +9,12 @@ date: 2017-09-19 12:00:00
 
 There has been a [lively](https://gridworld.wordpress.com/2015/07/20/arxiv-heaven-or-hell/) [debate](https://chairs-blog.acl2017.org/2017/03/02/arxiv-and-double-blind-reviewing-revisited/) [recently](https://chairs-blog.acl2017.org/2017/02/19/arxiv-and-the-future-of-double-blind-conference-reviewing/) about the review process for research paper submissions, and how to deal with the fact that double-blind review becomes more difficult when many papers are prepublished on sites like arxiv.org before submission.
 
+This discussion is becoming increasingly important, as we have conducted
+a study which indicates that in 2017, [23% of top-tier CS papers were posted to arXiv](http://groups.inf.ed.ac.uk/cup/csarxiv/). (That figure includes
+  papers posted both during and after peer review.)
+
 I'm going to start from two assumptions:
-*double blind reviewing is good* and *prepublication is good.* 
+*double blind reviewing is good* and *prepublication is good.*
 You can disagree with either assumption, or you could think that double-blind
 is so much more important than than prepublication that it should
 be preserved at all costs, or vice versa. People hold all of those views,
@@ -31,11 +35,11 @@ There are some recommendations that I've seen that unfortunately I don't think w
 ### Anti-Recommendation 1: I know. Let's have an anonymous version of arxiv.
 
 Lots of people have suggested allowing authors to prepublish papers
-anonymously (incidentally, there are [amusing precendents for this](http://www.mhhe.com/math/calc/smithminton2e/cd/tools/timeline/bernoulli_1.html) in the history of mathematics). This could be implemented via an overlay of arxiv, or a new feature added to arxiv itself, that would allow authors to temporary hide their identity. Let's call this AnonArxiv. 
+anonymously (incidentally, there are [amusing precendents for this](http://www.mhhe.com/math/calc/smithminton2e/cd/tools/timeline/bernoulli_1.html) in the history of mathematics). This could be implemented via an overlay of arxiv, or a new feature added to arxiv itself, that would allow authors to temporarily hide their identity. Let's call this AnonArxiv.
 
 Submissions to AnonArxiv would be immediately available to all but without the author names. Then, once the paper is accepted, AnonArxiv would reveal the author names, while preserving the time stamp of the anonymous submission. The conference would then require that if submissions are prepublished, they must be prepublished anonymously; any other prepublished submissions will be rejected without review.
 
-I used to think this was a cool idea. Now I don't. It neglects a 
+I used to think this was a cool idea. Now I don't. It neglects a
 fundamental principle that we are sadly all familiar with,
 that *most papers are rejected*.
 
@@ -54,17 +58,17 @@ With some regret, I come to the conclusion that AnonArxiv won't work. That said,
 
 ACL 2017 required all submissions to [declare if they had been prepublished](http://acl2017.org/calls/papers/#multiple-submission-policy). Reviewers were notified that a paper had been prepublished. Prepublished papers that were not declared as such were summarily rejected. Unfortunately I don't understand the rationale for how this stringent requirement was meant to help. Remember, the goal is not to prevent all papers from being unblind-*able*, it's to prevent too many papers from being unblind-*ed*.
 
-This could be a good idea if the hope is to warn reviewers that they should be careful about searching the web for the paper's title during the review process. The problem with this idea though, is that it does not help if the authors very reasonable prepublish the paper just *after* submission. So really, all reviewers need to be careful, all the time, and the extra heads up maybe isn't too helpful.
+This could be a good idea if the hope is to warn reviewers that they should be careful about searching the web for the paper's title during the review process. The problem with this idea though, is that it does not help if the authors very reasonably prepublish the paper just *after* submission. So really, all reviewers need to be careful, all the time, and the extra heads up maybe isn't too helpful.
 
 If the idea was to simply to gain more information about how many papers are prepublished, then I totally agree with asking the question, but I do not see why penalties for non-compliance were necessary.
 
-If the idea was to handle prepublished papers differently in the review process than non-prepublished ones, then I am not sure why this is necessary. Instead, I'll advocate below that we handle the review process of *unblinded* papers differently. 
+If the idea was to handle prepublished papers differently in the review process than non-prepublished ones, then I am not sure why this is necessary. Instead, I'll advocate below that we handle the review process of *unblinded* papers differently.
 
 So I would argue that it might make sense for conferences to request that authors declare prepublication, but that no penalties for noncompliance be used in future years.
 
 ### Recommendation-But-That's-Actually-An-Orthogonal-Issue: Let's use [OpenReview.Net](http://www.openreview.net)
 
-I've also read the suggestion that the NLP community switch to running conferences on OpenReview. I love OpenReview, and I eagerly await the day when I can go onto a site like OpenReview and pull up any paper in computer science, from any venue, from any year past or present, and find a lively and informative discussion online. 
+I've also read the suggestion that the NLP community switch to running conferences on OpenReview. I love OpenReview, and I eagerly await the day when I can go onto a site like OpenReview and pull up any paper in computer science, from any venue, from any year past or present, and find a lively and informative discussion online.
 
 But OpenReview is a software platform, not a reviewing process. It's [specifically designed](https://openreview.net/pdf?id=xf0zSBd2iufMg) to allow conference chairs to configure what information about the reviews and authors should be made public and when. It's not designed to answer the policy questions about whether submissions should be anonymous and what happens after they are rejected.
 
@@ -78,11 +82,11 @@ Conferences are already doing these things, so I don't claim to have any new ide
 
 Even if the author information for all submissions are public online, then reviewers, area chairs, and programme chairs can take steps to reduce the chances that a submission is unblinded, and to minimize the consequences when one is.
 
-**Reviewers** should avoid making Web searches that would be likely to reveal the authors of the paper. It can often happen that a well-meaning search for related work inadvertently turns up an unblinded copy of the paper. I am not saying that reviewers should never search for related work, but it carries risks --- it always has (ten years ago I had a reviewer of one of my papers deblinded by a tech report) --- and reviewers should try to avoid it. 
+**Reviewers** should avoid making Web searches that would be likely to reveal the authors of the paper. It can often happen that a well-meaning search for related work inadvertently turns up an unblinded copy of the paper. I am not saying that reviewers should never search for related work, but it carries risks --- it always has (ten years ago I had a reviewer of one of my papers deblinded by a tech report) --- and reviewers should try to avoid it.
 
-If the reviewer feels that a Web search is necessary, they should hold off until they have read the paper completely and formed an initial impression of it. This allows reviewers to apply the bias of cognitive dissonance to counteract the potential bias of unblinding. 
+If the reviewer feels that a Web search is necessary, they should hold off until they have read the paper completely and formed an initial impression of it. This allows reviewers to apply the bias of cognitive dissonance to counteract the potential bias of unblinding.
 
-If reviewers learn the author identities, then they must let the relevant person --- who could variously go by the title "programme chair", "programme committee member", "meta-reviewer", "senior PC member", "area chair", etc; I'll use the term "area chair" (AC) --- know this right away. 
+If reviewers learn the author identities, then they must let the relevant person --- who could variously go by the title "programme chair", "programme committee member", "meta-reviewer", "senior PC member", "area chair", etc; I'll use the term "area chair" (AC) --- know this right away.
 
 **Area chairs** should be prepared to apply their judgment to weigh the reviewers' comments differently when some reviewers are unblinded. Consider a paper like this: it has two negative reviews and one positive review, but the positive reviewer has been unblinded, the paper comes from a famous group so there is possibility of unconscious bias, and the AC believes that the negative comments have merit. Then the AC should be prepared to give less weight to the positive reviewer. In other examples, perhaps all three reviews are positive, or the authors are lesser-known, and so unlikely to engender positive bias. Then downweighting unblinded reviewers may not be necessary.
 
@@ -102,5 +106,11 @@ Much of the heat around this discussion may be because we are, as it were, debat
 
 * We should also attempt to record measures of diversity in the accepted papers in terms of authors and institutions. We should keep tracking those measures, monitor for decreases, and the presumed negative correlation with percentage of unblindedness.
 
-
-
+*Updated 8 May 2018*: In discussion after this post was first published,
+a colleague pointed me to the [PLDI FAQ on double blind](https://pldi18.sigplan.org/track/pldi-2018-papers#FAQ-on-Double-Blind-Reviewing),
+which has some good ideas. Another idea which I am starting to see gain
+traction is to have a "blackout period" in which authors are expected
+not to post their papers on arXiv or social media starting from a month
+before the conference deadline, and continuing throughout the review period.
+This is another interesting compromise which seems to nicely handle
+the resubmission problems of the AnonArxiv approach.
