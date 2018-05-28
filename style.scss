@@ -248,12 +248,35 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1.5em .8em 0;
+    padding: 0.1em 1em;
+    border-left: 2px solid $gray;
+    color: $gray;
+    font-size: 18px;
+    line-height: 1.5;
+    font-style: italic;
+  }
+
+  figcaption.quote-source {
+    margin: 0em 1em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
+    text-align: right;
     color: $gray;
-    font-size: 22px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+    .quote-author::before {
+        content: '\2014 ';
+    }
+
+  .quote-title {
     font-style: italic;
+  }
+
+  .quote-author::after {
+      content: ". ";
   }
 
   .comments {
@@ -342,4 +365,3 @@ div.next_post { float: right; text-align: right; }
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
