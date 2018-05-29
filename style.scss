@@ -247,8 +247,8 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.5em .8em 0;
+  figure.quote {
+    margin: 1.5em .8em 1.5em;
     padding: 0.1em 1em;
     border-left: 2px solid $gray;
     color: $gray;
@@ -258,22 +258,21 @@ nav {
   }
 
   figcaption.quote-source {
-    margin: 0em 1em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+    font-style: normal;
     text-align: right;
+    margin: 7px 0 0 0;
     color: $gray;
     font-size: 14px;
     line-height: 1.5;
   }
 
-    .quote-author::before {
-        content: '\2014 ';
-    }
+ .quote-title {
+      font-style: italic;
+ }
 
-  .quote-title {
-    font-style: italic;
-  }
+ .quote-author::before {
+        content: '\2014 ';
+ }
 
   .quote-author::after {
       content: ". ";
