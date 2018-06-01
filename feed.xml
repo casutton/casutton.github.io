@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2018-06-01T13:47:30-04:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">Stress in Research. Part III&amp;amp;#58 The Trouble about Freedom</title><link href="http://www.theexclusive.org//2018/05/freedom.html" rel="alternate" type="text/html" title="Stress in Research. Part III&amp;#58 The Trouble about Freedom" /><published>2018-05-05T00:00:00-04:00</published><updated>2018-05-05T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/05/freedom</id><content type="html" xml:base="http://www.theexclusive.org//2018/05/freedom.html">&lt;p&gt;&lt;em&gt;The third post in what is becoming an increasingly long
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2018-06-01T13:48:57-04:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman</title><link href="http://www.theexclusive.org//2018/06/mafia.html" rel="alternate" type="text/html" title="Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman" /><published>2018-06-01T00:00:00-04:00</published><updated>2018-06-01T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/06/mafia</id><content type="html" xml:base="http://www.theexclusive.org//2018/06/mafia.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Benjamin_Ruggiero&quot;&gt;Benjamin “Lefty Guns” Ruggiero&lt;/a&gt;
+was a fearsome Mafia hitman in New York in the 70s.
+According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph_D._Pistone&quot;&gt;an undercover FBI agent&lt;/a&gt;
+who knew him well, he was smart and savvy in underworld situations.
+He could walk into a restaurant where he knew no one,
+watch who talked to who, watch how they talked,
+and work out who was in the underworld, who received more deference,
+whether the restaurant was being extorted.&lt;/p&gt;
+
+&lt;p&gt;In other situations, a different story. The FBI agent,
+Joseph Pistone, was himself an incredibly perceptive observer
+(if he wasn’t, he’d have been murdered). He reports:&lt;/p&gt;
+
+&lt;figure class=&quot;quote&quot;&gt;
+&lt;blockquote&gt;
+A lot of these wiseguys did not have the ability to move around the country.
+Once you got these guys out of New York City, they were like fish out of water....
+As they schooled me in the mafia, I had to school them on how to make airline reservations.
+I am talking about a 49-year-old man,
+telling him how to make airline reservations to three different cities, with an
+open return, because we
+did not know what date we were going to return to New York City.
+&lt;/blockquote&gt;
+&lt;figcaption class=&quot;quote-source&quot;&gt;
+  &lt;span class=&quot;quote-author&quot;&gt;Joseph Pistone&lt;/span&gt;
+  &lt;cite class=&quot;quote-title&quot;&gt;Donnie Brasco: My Undercover Life in the Mafia&lt;/cite&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Of course I was immediately reminded of computer science research.
+In research situations, I think of myself as reasonably socially aware:
+I have a network of mentors, students, and collaborators;
+I can meet new colleagues and have interesting technical discussions;
+I can even navigate the occasional difficult conversation when the need
+arises.&lt;/p&gt;
+
+&lt;p&gt;But outside of work, I can be a bit more awkward,
+or at least that’s what my wife says.&lt;/p&gt;
+
+&lt;p&gt;We stereotype technical people as having low social skills, and
+I’ll admit knowing people who fully meet that stereotype.
+The Mafia hitman reminds us that social skills are context specific:
+you can be savvy in one type of situation, and clueless in another.
+“Social skills” aren’t a single skill, any more than intellectual
+skills are.&lt;/p&gt;
+
+&lt;p&gt;And the term implies something else. Social skills are skills.
+You can learn them.
+And it is in the interests of your career to do so.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="social skills" /><category term="painfully extended metaphors" /><summary type="html">Benjamin “Lefty Guns” Ruggiero
+was a fearsome Mafia hitman in New York in the 70s.
+According to an undercover FBI agent
+who knew him well, he was smart and savvy in underworld situations.
+He could walk into a restaurant where he knew no one,
+watch who talked to who, watch how they talked,
+and work out who was in the underworld, who received more deference,
+whether the restaurant was being extorted.</summary></entry><entry><title type="html">Stress in Research. Part III&amp;amp;#58 The Trouble about Freedom</title><link href="http://www.theexclusive.org//2018/05/freedom.html" rel="alternate" type="text/html" title="Stress in Research. Part III&amp;#58 The Trouble about Freedom" /><published>2018-05-05T00:00:00-04:00</published><updated>2018-05-05T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/05/freedom</id><content type="html" xml:base="http://www.theexclusive.org//2018/05/freedom.html">&lt;p&gt;&lt;em&gt;The third post in what is becoming an increasingly long
 series on &lt;a href=&quot;/tag/stress%20in%20research&quot;&gt;stress in research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I joked before that there’s no reason researchers should feel stress:
@@ -477,53 +532,4 @@ the resubmission problems of the AnonArxiv approach.&lt;/p&gt;</content><author>
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For direct flights I think it’s clear that carry on wins most of the time, but if you have a connection then it may well depend on your itinerary.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="travel tips" /><summary type="html">This time, some advice of a lighter sort. How light? Depends how well you pack!</summary></entry><entry><title type="html">A first lecture on time management</title><link href="http://www.theexclusive.org//2017/08/time-management.html" rel="alternate" type="text/html" title="A first lecture on time management" /><published>2017-08-05T13:00:00-04:00</published><updated>2017-08-05T13:00:00-04:00</updated><id>http://www.theexclusive.org//2017/08/time-management</id><content type="html" xml:base="http://www.theexclusive.org//2017/08/time-management.html">&lt;p&gt;Several students have recently asked me for advice about time management. When people ask you a important and difficult question like this, usually the best thing is to think of someone else who can give a better answer than you. For time management, an obvious person to turn to is the late Randy Pausch, a noted computer scientist who became an internet sensation because of &lt;a href=&quot;http://www.cmu.edu/randyslecture/book/&quot;&gt;an inspirational lecture&lt;/a&gt; that he gave after he had been diagnosed with terminal cancer.&lt;/p&gt;
-
-&lt;p&gt;Today I’d like to recommend a different, more practical, and excellent lecture that he gave on time management:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oTugjssqOT0&quot;&gt;Video of Randy Pausch’s lecture on time management&lt;/a&gt; (1 hour, 15 minutes)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cs.virginia.edu/~robins/Randy/RandyPauschTimeManagement2007.pdf&quot;&gt;Slides of lecture&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.stafforini.com/blog/summary-of-time-management-by-randy-pausch/&quot;&gt;Summary of ‘Time management’, by Randy Pausch&lt;/a&gt;. Bullet points written by Pablo Stafforini.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You should start by watching the lecture. I found it helpful to have the slides and bullet points in separate windows on screen as I watched.&lt;/p&gt;
-
-&lt;p&gt;If you need further encouragement to watch the lecture, I can say
-that what amazed me, as poor at time management as I may be, was the number of suggestions
-that I actually use day-to-day. I had entirely forgotten just how much I had learned the first time I saw this material. For example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Find your most creative time of day and defend it ruthlessly. The most important tip that you can learn for creative work. (I was interested to learn later that your most creative time can actually change over the years.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Turn off your email notification sound. Do it now!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Learn ways to say “no” gently. It makes saying “no” easier.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t ever delete emails. Search instead.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keep a todo list and calendar. My today-self says, “Well, duh.” But there was a time when I didn’t. You should start now!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Get a speakerphone so that you can get other things done while on hold with customer serve. Now, mobile phones or even Skype has a speakerphone option that works for this.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Professors should keep Kleenex in their office. Yes, we all need this.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keeping a clock on the wall behind where your visitors sit. Much less obtrusive than a wristwatch.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Write down one-minute minutes. So helpful! Just the main takeaways and actions for next time.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Keep a time clock. A big topic that I hope to write more about later.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There’s also an equally long list of good advice that I had forgotten, but for that, you’ll need to watch the lecture yourself!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="productivity" /><category term="time management" /><summary type="html">Several students have recently asked me for advice about time management. When people ask you a important and difficult question like this, usually the best thing is to think of someone else who can give a better answer than you. For time management, an obvious person to turn to is the late Randy Pausch, a noted computer scientist who became an internet sensation because of an inspirational lecture that he gave after he had been diagnosed with terminal cancer.</summary></entry></feed>
+&lt;p&gt;For direct flights I think it’s clear that carry on wins most of the time, but if you have a connection then it may well depend on your itinerary.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="travel tips" /><summary type="html">This time, some advice of a lighter sort. How light? Depends how well you pack!</summary></entry></feed>

@@ -63,6 +63,67 @@
      
        <article class="post">
 
+         <h1><a href="/2012/08/principles-of-research-code.html">Principles of Research Code</a></h1>
+
+         <div class="author">
+By Charles Sutton on August 16, 2012
+</div>
+
+
+
+         <div class="entry">
+         <p>Ali Eslami has just writen a <a href="http://arkitus.com/PRML/">terrific page</a> on organizing your experimental code and output. I pretty much agree with everything he says. I’ve thought quite a bit about this and would like to add some background.
+Programming for research is very different than programming for industry. There are several reasons for this, which I will call Principles of Research Code. These principles underly all of the advice in Ali’s post and in this post. These principles are:</p>
+
+<ol>
+  <li><strong>As a researcher, your product is not code. Your product is knowledge.</strong> Most of your research code you will completely forget once your paper is done.</li>
+  <li><strong>Unless you hit it big.</strong> If your paper takes off, and lots of people read it, then people will start asking you for a copy of your code. You should give it to them, and best to be prepared for this in advance.</li>
+  <li><strong>You need to be able to trust your results.</strong> You want to do enough testing that you do not, e.g., find a bug in your baselines after you publish. A small amount of paranoia comes in handy.</li>
+  <li><strong>You need a custom set of tools.</strong> Do not be afraid to write infrastructure and scripts to help you run new experiments quickly. But don’t go overboard with this.</li>
+  <li><strong>Reproducability.</strong> Ideally, your system should be set up so that five years from now, when someone asks you about Figure 3, you can immediately find the command line, experimental parameters, and code that you used to generate it.</li>
+</ol>
+
+<p>Principle 1 implies that the primary thing that you need to optimise for in research code is your own time. You want to generate as much knowledge as possible as quickly as possible. Sometimes being able to write fast code gives you a competitive advantage in research, because you can run on larger problems. But don’t spend time optimising unless you’re in a situation like this.
+Also, I have some more practical suggestions to augment what Ali has said. These are</p>
+
+<ol>
+  <li><em>Version control:</em> Ali doesn’t mention this, probably because it is second nature to him, but you need to keep all of your experimental code under version control. To not do this is courting disaster. Good version control systems include SVN, git, or Mercurial, etc. I now use Mercurial, but it doesn’t really matter what you use. Always commit all of your code before you run an experiment. This way you can reproduce your experimental results by checking out the version of your code form the time that you ran an experiment.</li>
+  <li><em>Random seeds:</em> Definitely take Ali’s advice to take the random seed as a parameter to your methods. Usually what I do is pick a large number of random seeds, save them to disk, and use them over and over again. Otherwise debugging is a nightmare.</li>
+  <li><em>Parallel option sweeps:</em> It takes some effort to get set up on a cluster like ECDF, but if you invest this, you get some nice benefits like the ability to run a parameter sweep in parallel.</li>
+  <li>
+    <p><em>Directory trees:</em> It is good to have your working directory in a different part of the directory space from your code, because then you don’t get annoying messages from your version control system asking you why you haven’t committed your experimental results. So I end up with a directory structure like</p>
+
+    <div class="highlighter-rouge"><pre class="highlight"><code>~/hg/projects/loopy_crf/code/synth_experiment.py
+    ~/results/loopy_crf/synth_experiment/dimensions_20_iterations_300
+</code></pre>
+    </div>
+
+    <p>Notice how I match the directory names to help me remember what script generated the results.</p>
+  </li>
+  <li><em>Figures list.</em> The day after I submit a paper, I add enough information to my notebook to meet Principle 5. That is, for every figure in the paper, I make a note of which output directory and which data file contains the results that made that figure. Then for those output directories, I make sure to have a note of which script and options generated those results.</li>
+  <li><em>Data preprocessing.</em> Lots of times we have some complicated steps to do data cleaning, feature extraction, etc. It’s good to save these intermediate results to disk. It’s also good to use a text format rather than binary, so that you can do a quick visual check for problems. One tip that I use to make sure I keep track of what data cleaning I do is to use Makefiles to run the data cleaning step. I have a different Makefile target for each intermediate result, which gives me instant documentation.</li>
+</ol>
+
+<p>If you want to read even more about this, I gave a guest lecture last year on a similar topic (<a href="http://homepages.inf.ed.ac.uk/csutton/talks/principles-rse/">slides</a>, <a href="http://podcast.is.ed.ac.uk:8080/Podcasts/inf_lectures/2011-09-29/Informatics_Research_Methodology__Charles_Sutton__27th_Septermber_2011-video.mp4">podcast</a>).</p>
+
+         </div>
+
+         
+<div class="tags">
+    Tags:
+   
+    <span class="tag"><a href="/tag/advice">advice</a></span>, 
+   
+    <span class="tag"><a href="/tag/popular">popular</a></span>
+   
+</div>
+
+
+
+       </article>
+	 
+       <article class="post">
+
          <h1><a href="/2012/08/software-i-like.html">Software I Like</a></h1>
 
          <div class="author">
@@ -238,6 +299,8 @@ By Charles Sutton on August  3, 2012
 
 	   <ul>
 	     
+	     <li><a href="/2018/06/mafia.html">Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman</a></li>
+	     
 	     <li><a href="/2018/05/freedom.html">Stress in Research. Part III&#58 The Trouble about Freedom</a></li>
 	     
 	     <li><a href="/2018/04/worth.html">Stress in Research. Part II&#58 Research Worth and Self-Worth</a></li>
@@ -245,8 +308,6 @@ By Charles Sutton on August  3, 2012
 	     <li><a href="/2018/03/tournament-axe.html">Stress in Research. Part I&#58; The Tournament and the Axe</a></li>
 	     
 	     <li><a href="/2017/12/travel-professor.html">Travel a lot? Here's how to stay organized, like professors do</a></li>
-	     
-	     <li><a href="/2017/11/cs-rankings.html">To PhD applicants&#58; A word about department rankings</a></li>
 	     
 	   </ul>
 
@@ -378,6 +439,8 @@ By Charles Sutton on August  3, 2012
 	     
 	     
 	     
+	     <li><a href="/tag/painfully extended metaphors">painfully extended metaphors</a> (2)</li>
+	     
 	     
 	     
 	     
@@ -423,6 +486,11 @@ By Charles Sutton on August  3, 2012
 	     
 	     
 	     <li><a href="/tag/silly">silly</a> (4)</li>
+	     
+	     
+	     
+	     
+	     
 	     
 	     
 	     
