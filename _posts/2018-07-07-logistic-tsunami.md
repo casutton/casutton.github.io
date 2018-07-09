@@ -53,7 +53,8 @@ I really like the way that Female Science Professor talks about
 [your brain on administration](http://science-professor.blogspot.com/2014/11/this-is-your-brain-on-administration.html).
 When you start doing too much administration, the tsunami starts to take
 over your unconscious mind, and the wonderful ideas that pop up start to be
-about how to phrase that sensitive email, instead of what to write your
+about what you can spend a tiny slice of your grant budget on, or
+how to phrase that sensitive email, instead of what to write your
 next paper about. This is the most terrible danger.
 
 I have now delayed for too long the part of the blog where I explain my
@@ -78,7 +79,7 @@ Some people enforce no-meeting days. Some people will work Sundays,
 but only on research.
 Some people don't check email before 4PM.
 Some people send lots of emails late at night because they're tired anyway.
-I don't do split things up by day, because I like to do small tasks
+I don't split things up by day, because I like to do small tasks
 when I get tired from concentrating. I make sure to schedule meetings back
 to back, to try to keep blocks of time for deeper work.
 
