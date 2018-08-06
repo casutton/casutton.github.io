@@ -8,7 +8,7 @@ tags:
 - expat
 ---
 
-I really should know better. Twice now, I've been in the situation.
+I really should know better. Twice now, I've done this to myself.
 I was a social event with one of my PhD students,
 like a party during a conference, where I was introducing
 them to a colleague. Feeling relaxed after a beer
