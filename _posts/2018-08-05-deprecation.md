@@ -17,10 +17,9 @@ the misfortune of being one of my students."
 
 Often that type of humour works well for me,
 and is enjoyed all around. Well, maybe I'm not perceptive
-enough to tell if anyone else enjoys it, but I do,
-at least.
+enough to tell if anyone else enjoys it, but I do.
 
-The misfortune joke never works, though. Both times the student turned
+The misfortunate joke never works, though. Both times the student turned
 and looked at me like I had three heads.
 Why would I say something like that about myself? Why would
 being my PhD student be a bad thing?
