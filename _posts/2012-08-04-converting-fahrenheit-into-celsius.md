@@ -5,7 +5,6 @@ date: '2012-08-03T16:03:00.000-07:00'
 author: Charles Sutton
 tags:
 - expat
-- popular
 modified_time: '2012-08-12T12:52:55.477-07:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-4184764928363237521
 blogger_orig_url: http://www.theexclusive.org/2012/08/converting-fahrenheit-into-celsius.html

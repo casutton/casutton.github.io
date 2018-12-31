@@ -5,6 +5,7 @@ author: Charles Sutton
 tags:
 - advice
 - research advice
+- popular
 date: 2017-11-04 17:00:00
 ---
 
@@ -20,7 +21,7 @@ I don't understand a paper until I can explain the paper to a smart person who h
 
 But there's two rules.
 
-Rule 1: You have to use your own words, summarising the paper without looking at it. If you find yourself repeating sentences from the paper, the you haven't internalised the paper's message. 
+Rule 1: You have to use your own words, summarising the paper without looking at it. If you find yourself repeating sentences from the paper, the you haven't internalised the paper's message.
 
 Rule 2: You cannot take *anything* the paper says at face value. You can assume that the authors won't lie to you. But they might oversell a bit, and if you are a independent expert, you might not agree with everything they claim, or with how they interpret the new evidence that they have provided. Or you might be able to describe what's going on a little bit better than they managed. What do *you* think that they have shown?
 
