@@ -6,9 +6,9 @@
 	   <ul>
 	     <li><a href="{{ site.baseurl }}feed.xml"><i class="fa fa-rss fa-sidebar" aria-hidden="true"></i> Subscribe via RSS</a></li>
 	     <li><a href="https://twitter.com/RandomlyWalking"><i class="fa fa-twitter fa-sidebar" aria-hidden="true"></i> Follow on Twitter</a></li>
-	     
+
 	   </ul>
-	   
+
 	   <h1>Recent Posts</h1>
 
 	   <ul>
@@ -19,7 +19,7 @@
 
 	   <h1>Most Popular</h1>
 	   <ul>
-	     {% for post in site.tags.popular limit:5 %}
+	     {% for post in site.tags.popular limit:7 %}
 	     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	     {% endfor %}
 	   </ul>
@@ -45,7 +45,7 @@
 	   They gang in stirks, and come out asses<br>
 	   Plain truth to speak; <br>
 An' syne they think to climb Parnassus <br>
-By dint o' Greek! 
+By dint o' Greek!
 	   </p>
 	   <p class="poem-attribution">
 	   Robert Burns, <a href="http://www.robertburns.org/works/61.shtml">Epistle To J. Lapraik, An Old Scottish Bard</a>
