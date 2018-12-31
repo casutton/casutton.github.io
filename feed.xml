@@ -1,4 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://www.theexclusive.org//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2018-09-03T09:49:32-04:00</updated><id>http://www.theexclusive.org///</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">Stress in Research. Part V&amp;amp;#58 If you really are an Impostor, then it’s not a Syndrome</title><link href="http://www.theexclusive.org//2018/09/impostor.html" rel="alternate" type="text/html" title="Stress in Research. Part V&amp;#58 If you really are an Impostor, then it's not a Syndrome" /><published>2018-09-03T00:00:00-04:00</published><updated>2018-09-03T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/09/impostor</id><content type="html" xml:base="http://www.theexclusive.org//2018/09/impostor.html">&lt;figure class=&quot;quote&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2018-12-30T21:00:58-08:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">How to Present a Scientific Poster at a Mega-Conference</title><link href="http://www.theexclusive.org//2018/12/poster.html" rel="alternate" type="text/html" title="How to Present a Scientific Poster at a Mega-Conference" /><published>2018-12-30T00:00:00-08:00</published><updated>2018-12-30T00:00:00-08:00</updated><id>http://www.theexclusive.org//2018/12/poster</id><content type="html" xml:base="http://www.theexclusive.org//2018/12/poster.html">&lt;p&gt;A lot of scientific communication happens at
+poster sessions. It’s a great way to learn
+about the field, and to meet new people
+with similar research interests. It’s also a great
+way to be noticed in a crowded research field.
+Presenting a poster is just as important,
+and requires as much specialized skill,
+as giving a 25-minute talk.
+Way back when, before this blog became what it is, I wrote advice for &lt;a href=&quot;http://homepages.inf.ed.ac.uk/csutton/advice/posters.html&quot;&gt;presenting research posters&lt;/a&gt;.
+Back when I started attending research conferences,
+advice like that was probably good enough.&lt;/p&gt;
+
+&lt;p&gt;But these days, I think we need a few more
+tricks in our poster-presenting sleeves.
+One of my favourite recent conferences,
+NeurIPS, had over 9000 attendees this year.
+Unavoidably, the room was a little bit loud, and
+it wasn’t unusual for a poster to have
+twenty people around it.
+&lt;em&gt;When the conference gets this large,
+you need to present your poster differently.&lt;/em&gt;
+I saw posters where
+one presenter carefully and quietly explained the poster
+to one person, both of them intently facing the poster,
+cheerfully oblivious to the fact that ten people were standing
+behind them, patiently reading the poster.
+If you are the presenter, don’t do this!&lt;/p&gt;
+
+&lt;p&gt;Instead, follow Sutton’s Three Rules for Presenting
+a Popular Poster at a Mega-Conference:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Be aware of what’s going on around you.&lt;/strong&gt;
+While you’re talking about your poster, people will
+be both joining and leaving your audience.
+You need to keep track of this.
+First, this lets you acknowledge someone who joins,
+by making eye contact and giving a quick smile or nod
+as you speak. (I’m not too proud to admit that although
+I try to do this for everyone, I’m even more likely to
+do this when the new person is someone I know,
+or someone famous.)
+Second, having awareness lets you adapt your presentation,
+because the way you talk to 2 or 3 people is different than
+the way you talk to a crowd of 15 people. How so?
+See the next two points.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Use your body language.&lt;/strong&gt;
+Congratulations! Your work has attracted a crowd,
+and you have maintained the presence of mind to
+notice. Now what?&lt;/p&gt;
+
+    &lt;p&gt;Continue your short talk about the paper,
+just like you had before. You just need to make clear that
+you are talking to the whole group rather than one person.
+You do that with your body language.&lt;/p&gt;
+
+    &lt;p&gt;Face the entire group. Make yourself big.
+Put your feet just a bit farther apart,
+your shoulders up, your arms away from your body, and
+your gestures large, so that everyone can see you.
+Look around the entire group as you speak.
+If you are doing this right, there will be a large semicircle around the poster, and you will be in a prominent
+position at one side.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;You need to speak up.&lt;/strong&gt; If people can’t hear you,
+they will move on to the next poster. You need to speak
+loudly enough that you can be heard 15 feet away in a
+loud room. My voice is naturally on the loud side,
+but even I had to consciously exert my full effort
+to project my voice
+while I was presenting our NeurIPS poster.&lt;/p&gt;
+
+    &lt;p&gt;There are techniques for doing this without straining
+your voice.
+If your profession involves speaking, as is common
+in academia, it might help to learn about this.
+“The Right to Speak” by Patsy Rosenberg is one
+book that has been recommended to me.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What’s that you say? It’s hard to do all of that
+while talking about research at the same time?
+Yes! It is. That’s why you need to practice your short presentation
+until you know it well. This leaves you with mental
+space that you can use to focus on your audience.
+(Actually, this is good advice for all talks.)&lt;/p&gt;
+
+&lt;p&gt;The transition from “small group poster talk”
+to “large group poster talk” can be awkward, but you
+manage it. You can say something to the earlier group like,
+“I’m going to reset the presentation for these new people,
+but feel free to jump in if you think of more questions.”
+Stuff like that.&lt;/p&gt;
+
+&lt;p&gt;One time, I had just started presenting
+the poster to one person when a group seemed to come
+up out of nowhere. I just looked at my faithful
+original audience and said, “You might want to take
+a step back, because I’m about to shout.” I did, and he did. I didn’t restart my talk, but I added in a few background phrases here
+and there to help the larger group get context.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="presentation advice" /><summary type="html">A lot of scientific communication happens at poster sessions. It’s a great way to learn about the field, and to meet new people with similar research interests. It’s also a great way to be noticed in a crowded research field. Presenting a poster is just as important, and requires as much specialized skill, as giving a 25-minute talk. Way back when, before this blog became what it is, I wrote advice for presenting research posters. Back when I started attending research conferences, advice like that was probably good enough.</summary></entry><entry><title type="html">Stress in Research. Part V&amp;amp;#58 If you really are an Impostor, then it’s not a Syndrome</title><link href="http://www.theexclusive.org//2018/09/impostor.html" rel="alternate" type="text/html" title="Stress in Research. Part V&amp;#58 If you really are an Impostor, then it's not a Syndrome" /><published>2018-09-03T00:00:00-07:00</published><updated>2018-09-03T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/09/impostor</id><content type="html" xml:base="http://www.theexclusive.org//2018/09/impostor.html">&lt;figure class=&quot;quote&quot;&gt;
 &lt;blockquote&gt;
 As you know, there isn’t really any solution to self-doubt. In the end,
 you just have to write and doubt simultaneously.  
@@ -109,11 +213,7 @@ I have been part of the life of the research community, preserving, growing, and
 knowledge. That is
  enough to make my professional life worthwhile, even after all the papers that I’ve written have faded into obscurity.&lt;/p&gt;
 
-&lt;p&gt;And that’s how I deal with self doubt.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">As you know, there isn’t really any solution to self-doubt. In the end,
-you just have to write and doubt simultaneously.  
-
-
-  Zadie Smith</summary></entry><entry><title type="html">Ill-Judged Britishness, and Self-Deprecation within a Power Dynamic</title><link href="http://www.theexclusive.org//2018/08/deprecation.html" rel="alternate" type="text/html" title="Ill-Judged Britishness, and Self-Deprecation within a Power Dynamic" /><published>2018-08-05T00:00:00-04:00</published><updated>2018-08-05T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/08/deprecation</id><content type="html" xml:base="http://www.theexclusive.org//2018/08/deprecation.html">&lt;p&gt;I really should know better. Twice now, I’ve done this to myself.
+&lt;p&gt;And that’s how I deal with self doubt.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><category term="popular" /><summary type="html">As you know, there isn’t really any solution to self-doubt. In the end, you just have to write and doubt simultaneously. Zadie Smith</summary></entry><entry><title type="html">Ill-Judged Britishness, and Self-Deprecation within a Power Dynamic</title><link href="http://www.theexclusive.org//2018/08/deprecation.html" rel="alternate" type="text/html" title="Ill-Judged Britishness, and Self-Deprecation within a Power Dynamic" /><published>2018-08-05T00:00:00-07:00</published><updated>2018-08-05T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/08/deprecation</id><content type="html" xml:base="http://www.theexclusive.org//2018/08/deprecation.html">&lt;p&gt;I really should know better. Twice now, I’ve done this to myself.
 I was a social event with one of my PhD students,
 like a party during a conference, where I was introducing
 them to a colleague. Feeling relaxed after a beer
@@ -137,12 +237,7 @@ to my student. “I’m just feeling a bit British.”&lt;/p&gt;
 
 &lt;p&gt;“Self-deprecation,” I said.&lt;/p&gt;
 
-&lt;p&gt;“Oh, of course.” Immediate understanding.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="attempts at social interaction" /><category term="anecdotes" /><category term="expat" /><summary type="html">I really should know better. Twice now, I’ve done this to myself.
-I was a social event with one of my PhD students,
-like a party during a conference, where I was introducing
-them to a colleague. Feeling relaxed after a beer
-or two, I attempted an ill-judged joke, “So-and-so has
-the misfortune of being one of my students.”</summary></entry><entry><title type="html">Stress in Research. Part IV&amp;amp;#58 A Tsunami of Logistics</title><link href="http://www.theexclusive.org//2018/07/logistic-tsunami.html" rel="alternate" type="text/html" title="Stress in Research. Part IV&amp;#58 A Tsunami of Logistics" /><published>2018-07-07T00:00:00-04:00</published><updated>2018-07-07T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/07/logistic-tsunami</id><content type="html" xml:base="http://www.theexclusive.org//2018/07/logistic-tsunami.html">&lt;p&gt;&lt;em&gt;The fourth in a tidal wave of posts about
+&lt;p&gt;“Oh, of course.” Immediate understanding.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="attempts at social interaction" /><category term="anecdotes" /><category term="expat" /><summary type="html">I really should know better. Twice now, I’ve done this to myself. I was a social event with one of my PhD students, like a party during a conference, where I was introducing them to a colleague. Feeling relaxed after a beer or two, I attempted an ill-judged joke, “So-and-so has the misfortune of being one of my students.”</summary></entry><entry><title type="html">Stress in Research. Part IV&amp;amp;#58 A Tsunami of Logistics</title><link href="http://www.theexclusive.org//2018/07/logistic-tsunami.html" rel="alternate" type="text/html" title="Stress in Research. Part IV&amp;#58 A Tsunami of Logistics" /><published>2018-07-07T00:00:00-07:00</published><updated>2018-07-07T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/07/logistic-tsunami</id><content type="html" xml:base="http://www.theexclusive.org//2018/07/logistic-tsunami.html">&lt;p&gt;&lt;em&gt;The fourth in a tidal wave of posts about
 &lt;a href=&quot;/tag/stress%20in%20research&quot;&gt;stress in research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s a source of stress for people who have gotten a bit more senior
@@ -272,8 +367,7 @@ in front of the class, either. You need to find something in the middle,
 and the same goes for the service that you do inside and outside
 of the university.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The fourth in a tidal wave of posts about
-stress in research.</summary></entry><entry><title type="html">Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman</title><link href="http://www.theexclusive.org//2018/06/mafia.html" rel="alternate" type="text/html" title="Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman" /><published>2018-06-01T00:00:00-04:00</published><updated>2018-06-01T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/06/mafia</id><content type="html" xml:base="http://www.theexclusive.org//2018/06/mafia.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Benjamin_Ruggiero&quot;&gt;Benjamin “Lefty Guns” Ruggiero&lt;/a&gt;
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The fourth in a tidal wave of posts about stress in research.</summary></entry><entry><title type="html">Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman</title><link href="http://www.theexclusive.org//2018/06/mafia.html" rel="alternate" type="text/html" title="Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman" /><published>2018-06-01T00:00:00-07:00</published><updated>2018-06-01T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/06/mafia</id><content type="html" xml:base="http://www.theexclusive.org//2018/06/mafia.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Benjamin_Ruggiero&quot;&gt;Benjamin “Lefty Guns” Ruggiero&lt;/a&gt;
 was a fearsome Mafia hitman in New York in the 70s.
 According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph_D._Pistone&quot;&gt;an undercover FBI agent&lt;/a&gt;
 who knew him well, he was smart and savvy in underworld situations.
@@ -321,14 +415,7 @@ skills are.&lt;/p&gt;
 
 &lt;p&gt;And the term implies something else. Social skills are skills.
 You can learn them.
-And it is in the interests of your career to do so.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="social skills" /><category term="painfully extended metaphors" /><summary type="html">Benjamin “Lefty Guns” Ruggiero
-was a fearsome Mafia hitman in New York in the 70s.
-According to an undercover FBI agent
-who knew him well, he was smart and savvy in underworld situations.
-He could walk into a restaurant where he knew no one,
-watch who talked to who, watch how they talked,
-and work out who was in the underworld, who received more deference,
-whether the restaurant was being extorted.</summary></entry><entry><title type="html">Stress in Research. Part III&amp;amp;#58 The Trouble about Freedom</title><link href="http://www.theexclusive.org//2018/05/freedom.html" rel="alternate" type="text/html" title="Stress in Research. Part III&amp;#58 The Trouble about Freedom" /><published>2018-05-05T00:00:00-04:00</published><updated>2018-05-05T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/05/freedom</id><content type="html" xml:base="http://www.theexclusive.org//2018/05/freedom.html">&lt;p&gt;&lt;em&gt;The third post in what is becoming an increasingly long
+And it is in the interests of your career to do so.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="social skills" /><category term="painfully extended metaphors" /><summary type="html">Benjamin “Lefty Guns” Ruggiero was a fearsome Mafia hitman in New York in the 70s. According to an undercover FBI agent who knew him well, he was smart and savvy in underworld situations. He could walk into a restaurant where he knew no one, watch who talked to who, watch how they talked, and work out who was in the underworld, who received more deference, whether the restaurant was being extorted.</summary></entry><entry><title type="html">Stress in Research. Part III&amp;amp;#58 The Trouble about Freedom</title><link href="http://www.theexclusive.org//2018/05/freedom.html" rel="alternate" type="text/html" title="Stress in Research. Part III&amp;#58 The Trouble about Freedom" /><published>2018-05-05T00:00:00-07:00</published><updated>2018-05-05T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/05/freedom</id><content type="html" xml:base="http://www.theexclusive.org//2018/05/freedom.html">&lt;p&gt;&lt;em&gt;The third post in what is becoming an increasingly long
 series on &lt;a href=&quot;/tag/stress%20in%20research&quot;&gt;stress in research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I joked before that there’s no reason researchers should feel stress:
@@ -426,8 +513,7 @@ value that we create does not return to the institution.
 You become an academic because you believe the specialized
 knowledge that fascinates you has, in some small sense,
 importance to society as a whole. Another responsibility,
-and another stressor!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The third post in what is becoming an increasingly long
-series on stress in research.</summary></entry><entry><title type="html">Stress in Research. Part II&amp;amp;#58 Research Worth and Self-Worth</title><link href="http://www.theexclusive.org//2018/04/worth.html" rel="alternate" type="text/html" title="Stress in Research. Part II&amp;#58 Research Worth and Self-Worth" /><published>2018-04-07T00:00:00-04:00</published><updated>2018-04-07T00:00:00-04:00</updated><id>http://www.theexclusive.org//2018/04/worth</id><content type="html" xml:base="http://www.theexclusive.org//2018/04/worth.html">&lt;p&gt;&lt;em&gt;The second post in what is perhaps a
+and another stressor!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The third post in what is becoming an increasingly long series on stress in research.</summary></entry><entry><title type="html">Stress in Research. Part II&amp;amp;#58 Research Worth and Self-Worth</title><link href="http://www.theexclusive.org//2018/04/worth.html" rel="alternate" type="text/html" title="Stress in Research. Part II&amp;#58 Research Worth and Self-Worth" /><published>2018-04-07T00:00:00-07:00</published><updated>2018-04-07T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/04/worth</id><content type="html" xml:base="http://www.theexclusive.org//2018/04/worth.html">&lt;p&gt;&lt;em&gt;The second post in what is perhaps a
 &lt;a href=&quot;/tag/stress%20in%20research&quot;&gt;series on stress in research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;It might be surprising, but one of the main sources of stress in research is self-esteem.
@@ -476,8 +562,7 @@ that you like everything about them.
 Again, this is a confusion that arises from cognitive dissonance.
 It requires conscious effort to be able to separate your admiration or criticism of someone’s work with your admiration (or lack thereof!) of them as a trustworthy, loyal friend.&lt;/p&gt;
 
-&lt;p&gt;Once I’ve learned to do that, perhaps I can extend the same courtesy to myself.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The second post in what is perhaps a
-series on stress in research.</summary></entry><entry><title type="html">Stress in Research. Part I: The Tournament and the Axe</title><link href="http://www.theexclusive.org//2018/03/tournament-axe.html" rel="alternate" type="text/html" title="Stress in Research. Part I&amp;#58; The Tournament and the Axe" /><published>2018-03-03T07:00:00-05:00</published><updated>2018-03-03T07:00:00-05:00</updated><id>http://www.theexclusive.org//2018/03/tournament-axe</id><content type="html" xml:base="http://www.theexclusive.org//2018/03/tournament-axe.html">&lt;p&gt;&lt;em&gt;Perhaps the first post in a series.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Once I’ve learned to do that, perhaps I can extend the same courtesy to myself.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The second post in what is perhaps a series on stress in research.</summary></entry><entry><title type="html">Stress in Research. Part I: The Tournament and the Axe</title><link href="http://www.theexclusive.org//2018/03/tournament-axe.html" rel="alternate" type="text/html" title="Stress in Research. Part I&amp;#58; The Tournament and the Axe" /><published>2018-03-03T04:00:00-08:00</published><updated>2018-03-03T04:00:00-08:00</updated><id>http://www.theexclusive.org//2018/03/tournament-axe</id><content type="html" xml:base="http://www.theexclusive.org//2018/03/tournament-axe.html">&lt;p&gt;&lt;em&gt;Perhaps the first post in a series.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;From one point of view, research is the best job in the world. You get to be creative and follow your curiosity. You are always learning; if you ever stop, you have stopped doing research. You can collaborate with brilliant people, and help young smart people to find the frontiers of knowledge.&lt;/p&gt;
 
@@ -525,7 +610,7 @@ You need to train yourself to think instead: hey, what a great person to learn f
   &lt;li&gt;
     &lt;p&gt;Accept the existence of the Axe. Perhaps not helpful advice, because it is too easily said, but still important. There is nothing to be gained by spending too much time staring at the Axe above you. You know it’s there and you know it’s sharp. You still need to get on with what you have to do, if you intend to stay in the game.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">Perhaps the first post in a series.</summary></entry><entry><title type="html">Travel a lot? Here’s how to stay organized, like professors do</title><link href="http://www.theexclusive.org//2017/12/travel-professor.html" rel="alternate" type="text/html" title="Travel a lot? Here's how to stay organized, like professors do" /><published>2017-12-02T12:00:00-05:00</published><updated>2017-12-02T12:00:00-05:00</updated><id>http://www.theexclusive.org//2017/12/travel-professor</id><content type="html" xml:base="http://www.theexclusive.org//2017/12/travel-professor.html">&lt;p&gt;We had a fun time on the professors’ Facebook the other day, swapping stories of the dumbest travel mistakes that we’ve made. You know, booking flights to the wrong country, forgetting to book a hotel, registering for the conference twice, and other such hilarity.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><category term="popular" /><summary type="html">Perhaps the first post in a series.</summary></entry><entry><title type="html">Travel a lot? Here’s how to stay organized, like professors do</title><link href="http://www.theexclusive.org//2017/12/travel-professor.html" rel="alternate" type="text/html" title="Travel a lot? Here's how to stay organized, like professors do" /><published>2017-12-02T09:00:00-08:00</published><updated>2017-12-02T09:00:00-08:00</updated><id>http://www.theexclusive.org//2017/12/travel-professor</id><content type="html" xml:base="http://www.theexclusive.org//2017/12/travel-professor.html">&lt;p&gt;We had a fun time on the professors’ Facebook the other day, swapping stories of the dumbest travel mistakes that we’ve made. You know, booking flights to the wrong country, forgetting to book a hotel, registering for the conference twice, and other such hilarity.&lt;/p&gt;
 
 &lt;p&gt;Let’s face it, professors travel a lot. We are also very bad at remembering things. This is a combination that makes for comedy, unless you’re the poor sod who has to live through it. (That’s &lt;em&gt;Professor&lt;/em&gt; Sod, to you.)&lt;/p&gt;
 
@@ -541,7 +626,7 @@ You need to train yourself to think instead: hey, what a great person to learn f
 
 &lt;p&gt;And finally, there is &lt;a href=&quot;http://TripIt.com&quot;&gt;TripIt&lt;/a&gt;. TripIt is an amazing service that I have used for over a decade. Every time you get a confirmation email from an airline, hotel, travel agent, etc, you forward it to a special email address plans@tripit.com. TripIt parses all these emails and collects them into a single itinerary, using the dates to figure out which emails belong to the same trip. You never have to root around looking for a confirmation number again. It’s great! Especially clever: to sign up, just forward your first confirmation email to plans@tripit.com&lt;/p&gt;
 
-&lt;p&gt;Now this leaves one more question. Why are professors always so forgetful in the first place? There’s a very good reason for that, actually. But that’s a different post…&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="organizational advice" /><summary type="html">We had a fun time on the professors’ Facebook the other day, swapping stories of the dumbest travel mistakes that we’ve made. You know, booking flights to the wrong country, forgetting to book a hotel, registering for the conference twice, and other such hilarity.</summary></entry><entry><title type="html">To PhD applicants: A word about department rankings</title><link href="http://www.theexclusive.org//2017/11/cs-rankings.html" rel="alternate" type="text/html" title="To PhD applicants&amp;#58; A word about department rankings" /><published>2017-11-12T07:00:00-05:00</published><updated>2017-11-12T07:00:00-05:00</updated><id>http://www.theexclusive.org//2017/11/cs-rankings</id><content type="html" xml:base="http://www.theexclusive.org//2017/11/cs-rankings.html">&lt;p&gt;When I was applying for my PhD, I used rankings of computer science
+&lt;p&gt;Now this leaves one more question. Why are professors always so forgetful in the first place? There’s a very good reason for that, actually. But that’s a different post…&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="organizational advice" /><summary type="html">We had a fun time on the professors’ Facebook the other day, swapping stories of the dumbest travel mistakes that we’ve made. You know, booking flights to the wrong country, forgetting to book a hotel, registering for the conference twice, and other such hilarity.</summary></entry><entry><title type="html">To PhD applicants: A word about department rankings</title><link href="http://www.theexclusive.org//2017/11/cs-rankings.html" rel="alternate" type="text/html" title="To PhD applicants&amp;#58; A word about department rankings" /><published>2017-11-12T04:00:00-08:00</published><updated>2017-11-12T04:00:00-08:00</updated><id>http://www.theexclusive.org//2017/11/cs-rankings</id><content type="html" xml:base="http://www.theexclusive.org//2017/11/cs-rankings.html">&lt;p&gt;When I was applying for my PhD, I used rankings of computer science
 departments to help me decide where to apply.
 Rankings are never perfect, but I didn’t have access to
 detailed knowledge of the research landscape,
@@ -617,31 +702,4 @@ player who would run circles around anyone who you and I have ever met. The diff
 you didn’t know about that are strong in your area. Don’t use them
 as a way to decide between departments: For that, you should be reading
 the work of potential supervisors that interest you. Doing a PhD is about
-learning to do research. What types of papers do you want to write?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="phd applications" /><summary type="html">When I was applying for my PhD, I used rankings of computer science
-departments to help me decide where to apply.
-Rankings are never perfect, but I didn’t have access to
-detailed knowledge of the research landscape,
-and the rankings helped to steer me in the right direction.
-In retrospect, I can see that the rankings were not perfect, and
-I made one or two silly mistakes about where to apply,
-but I would have made even more silly mistakes without them.</summary></entry><entry><title type="html">How to read a research paper</title><link href="http://www.theexclusive.org//2017/11/read-a-paper.html" rel="alternate" type="text/html" title="How to read a research paper" /><published>2017-11-04T13:00:00-04:00</published><updated>2017-11-04T13:00:00-04:00</updated><id>http://www.theexclusive.org//2017/11/read-a-paper</id><content type="html" xml:base="http://www.theexclusive.org//2017/11/read-a-paper.html">&lt;p&gt;There’s lots of advice you can read about how to read a research paper. There’s some good advice in this paper:&lt;/p&gt;
-
-&lt;p&gt;S. Keshav. &lt;a href=&quot;http://ccr.sigcomm.org/online/files/p83-keshavA.pdf&quot;&gt;How to read a paper&lt;/a&gt;. ACM SIGCOMM Computer Communication Review, 37(3):83–84, 2007.&lt;/p&gt;
-
-&lt;p&gt;But there’s one tip that I can offer you to organise your reading of a paper that I can’t remember seeing elsewhere. Ask yourself:&lt;/p&gt;
-
-&lt;p&gt;What is the 5 minute summary that you would give to a Very Smart Friend?&lt;/p&gt;
-
-&lt;p&gt;I don’t understand a paper until I can explain the paper to a smart person who hasn’t read it. I need to be able to explain enough to the VSF so that she understands: what problem the paper is trying to solve, what sort of methods does it use, and how does it relate to the literature, i.e., what does it add.&lt;/p&gt;
-
-&lt;p&gt;But there’s two rules.&lt;/p&gt;
-
-&lt;p&gt;Rule 1: You have to use your own words, summarising the paper without looking at it. If you find yourself repeating sentences from the paper, the you haven’t internalised the paper’s message.&lt;/p&gt;
-
-&lt;p&gt;Rule 2: You cannot take &lt;em&gt;anything&lt;/em&gt; the paper says at face value. You can assume that the authors won’t lie to you. But they might oversell a bit, and if you are a independent expert, you might not agree with everything they claim, or with how they interpret the new evidence that they have provided. Or you might be able to describe what’s going on a little bit better than they managed. What do &lt;em&gt;you&lt;/em&gt; think that they have shown?&lt;/p&gt;
-
-&lt;p&gt;Another way of saying this: I know that my imaginary Very Smart Friend will jump on me if I say something inaccurate. So I don’t want to make a claim to my iVSF unless &lt;strong&gt;I&lt;/strong&gt; can argue for it, based on what I have learned from the theory and experiments in the paper. If I just say something like “well, the authors claim X,” but X is controversial, or even dubious, then my iVSF will immediately want to know &lt;em&gt;why&lt;/em&gt; they say that, do they really have evidence, and I had better have a answer.&lt;/p&gt;
-
-&lt;p&gt;It can also be good to try this exercise even before you are done. After reading the introduction, how well can you guess what the methods will be, even before you read them? Then read to see if you were right.&lt;/p&gt;
-
-&lt;p&gt;To sum up, I hope that I’ve convinced you that having an imaginary friend can help you in your research. You might not want to tell everyone on the internet that you have an imaginary friend, as I have just done, because it might not improve their respect for you.  But hey, if it’s good for your research, then where are your priorities?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="research advice" /><summary type="html">There’s lots of advice you can read about how to read a research paper. There’s some good advice in this paper:</summary></entry></feed>
+learning to do research. What types of papers do you want to write?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="phd applications" /><summary type="html">When I was applying for my PhD, I used rankings of computer science departments to help me decide where to apply. Rankings are never perfect, but I didn’t have access to detailed knowledge of the research landscape, and the rankings helped to steer me in the right direction. In retrospect, I can see that the rankings were not perfect, and I made one or two silly mistakes about where to apply, but I would have made even more silly mistakes without them.</summary></entry></feed>
