@@ -6,7 +6,7 @@ tags:
 - advice
 - advice in popular culture
 - phd comics
-date: 2019-02-02 16:40:00
+date: 2019-02-18 16:40:00
 ---
 
 If you're reading this blog, then you already know about
