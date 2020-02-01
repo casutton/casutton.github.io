@@ -4,9 +4,8 @@ title: How do you break into a career in machine learning?
 author: Charles Sutton
 tags:
 - advice
-- advice in popular culture
-- phd comics
-date: 2020-02-01
+- questions from readers
+date: 2020-02-01 08:00
 ---
 
 I got a question the other day about how to start a career in machine learning.
