@@ -4,7 +4,7 @@ title: 'ICLR 2020: My first virtual conference'
 author: Charles Sutton
 tags:
 - conferences
-date: 2019-05-10 19:00:00
+date: 2020-05-10 19:00:00
 ---
 
 *(or: How I learned to stop worrying and love virtual conferencing.)*
