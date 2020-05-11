@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2020-05-10T23:38:17-07:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">How do you break into a career in machine learning?</title><link href="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html" rel="alternate" type="text/html" title="How do you break into a career in machine learning?" /><published>2020-02-01T08:00:00-08:00</published><updated>2020-02-01T08:00:00-08:00</updated><id>http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning</id><content type="html" xml:base="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html">&lt;p&gt;I got a question the other day about how to start a career in machine learning.
-I gave the best answer that I could, but I’m not sure that my best was
-very good. Can you help? If so, join the discussion on social media
-(or send me a note privately):&lt;/p&gt;
-
-&lt;p&gt;The question was:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I am currently studying for a master’s at [a good university outside
-the United States &lt;em&gt;-cas&lt;/em&gt;] while working part-time as an NLP research engineer. I would like to ask you for some advice if that was possible.&lt;/p&gt;
-
-  &lt;p&gt;My question is: without having outstanding grades or publications in top AI journals, how could I find my way towards a top Ph.D. program or at least research internship, is there any possibility? I am currently working on deep learning (paid job) and have some Ph.D. offers. Still, I feel that internships at companies like Google or Ph.D. positions at top research centers are impossible without previous experience in a similar place, which is like a snake biting its tail. Except for students with massive GPA scores, which is not my case.&lt;/p&gt;
-
-  &lt;p&gt;I am happy with my current job, but so far, I have just been able to grasp the opportunities that I found, so I am thinking about trying to go abroad. Everything I have found is very applied, and I would like to study more abstract or generic (even exotic) topics, instead of applying existing neural architectures to specific domains.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I wrote:&lt;/p&gt;
-
-&lt;p&gt;Lots and lots of applicants to computer science PhD programs want to do machine learning, so admissions is very competitive. I don’t think it’s necessary to have publications to get into a PhD program, although it does help, and the higher you go in the rankings, the more that you need any help that you can get.&lt;/p&gt;
-
-&lt;p&gt;I’m not sure that I have better advice than to learn as much as you can, do good work, network with others, and work your way up the prestige ladder. 
-It’s true that going to a very highly ranked school gives you an advantage, but I know very good researchers who did not have very good grades in undergrad, and even if you do your PhD at a lower ranked place, if your work is good, it still can stand out.&lt;/p&gt;
-
-&lt;p&gt;And now, a question for my readers (all three of them),
-what do you think?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="questions from readers" /><summary type="html">I got a question the other day about how to start a career in machine learning. I gave the best answer that I could, but I’m not sure that my best was very good. Can you help? If so, join the discussion on social media (or send me a note privately):</summary></entry><entry><title type="html">ICLR 2020: My first virtual conference</title><link href="http://www.theexclusive.org//2019/05/virtual-iclr.html" rel="alternate" type="text/html" title="ICLR 2020: My first virtual conference" /><published>2019-05-10T12:00:00-07:00</published><updated>2019-05-10T12:00:00-07:00</updated><id>http://www.theexclusive.org//2019/05/virtual-iclr</id><content type="html" xml:base="http://www.theexclusive.org//2019/05/virtual-iclr.html">&lt;p&gt;&lt;em&gt;(or: How I learned to stop worrying and love virtual conferencing.)&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2020-05-10T23:40:11-07:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">ICLR 2020: My first virtual conference</title><link href="http://www.theexclusive.org//2020/05/virtual-iclr.html" rel="alternate" type="text/html" title="ICLR 2020: My first virtual conference" /><published>2020-05-10T12:00:00-07:00</published><updated>2020-05-10T12:00:00-07:00</updated><id>http://www.theexclusive.org//2020/05/virtual-iclr</id><content type="html" xml:base="http://www.theexclusive.org//2020/05/virtual-iclr.html">&lt;p&gt;&lt;em&gt;(or: How I learned to stop worrying and love virtual conferencing.)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Many computer science conferences are becoming virtual this year,
 due to travel restrictions.
@@ -242,7 +218,31 @@ in the exciting but scary position of organizing a virtual conference:&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/iclR/iclr.github.io/&quot;&gt;Source code for ICLR web site&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2004.07668&quot;&gt;Report from EDBT/ICDT 2020 virtual conference&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.acm.org/virtual-conferences&quot;&gt;ACM report of virutal conferences&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="conferences" /><summary type="html">(or: How I learned to stop worrying and love virtual conferencing.)</summary></entry><entry><title type="html">The three PhD Comic strips that are actually good research advice</title><link href="http://www.theexclusive.org//2019/02/phd-comics.html" rel="alternate" type="text/html" title="The three PhD Comic strips that are actually good research advice" /><published>2019-02-18T08:40:00-08:00</published><updated>2019-02-18T08:40:00-08:00</updated><id>http://www.theexclusive.org//2019/02/phd-comics</id><content type="html" xml:base="http://www.theexclusive.org//2019/02/phd-comics.html">&lt;p&gt;If you’re reading this blog, then you already know about
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="conferences" /><summary type="html">(or: How I learned to stop worrying and love virtual conferencing.)</summary></entry><entry><title type="html">How do you break into a career in machine learning?</title><link href="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html" rel="alternate" type="text/html" title="How do you break into a career in machine learning?" /><published>2020-02-01T08:00:00-08:00</published><updated>2020-02-01T08:00:00-08:00</updated><id>http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning</id><content type="html" xml:base="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html">&lt;p&gt;I got a question the other day about how to start a career in machine learning.
+I gave the best answer that I could, but I’m not sure that my best was
+very good. Can you help? If so, join the discussion on social media
+(or send me a note privately):&lt;/p&gt;
+
+&lt;p&gt;The question was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I am currently studying for a master’s at [a good university outside
+the United States &lt;em&gt;-cas&lt;/em&gt;] while working part-time as an NLP research engineer. I would like to ask you for some advice if that was possible.&lt;/p&gt;
+
+  &lt;p&gt;My question is: without having outstanding grades or publications in top AI journals, how could I find my way towards a top Ph.D. program or at least research internship, is there any possibility? I am currently working on deep learning (paid job) and have some Ph.D. offers. Still, I feel that internships at companies like Google or Ph.D. positions at top research centers are impossible without previous experience in a similar place, which is like a snake biting its tail. Except for students with massive GPA scores, which is not my case.&lt;/p&gt;
+
+  &lt;p&gt;I am happy with my current job, but so far, I have just been able to grasp the opportunities that I found, so I am thinking about trying to go abroad. Everything I have found is very applied, and I would like to study more abstract or generic (even exotic) topics, instead of applying existing neural architectures to specific domains.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I wrote:&lt;/p&gt;
+
+&lt;p&gt;Lots and lots of applicants to computer science PhD programs want to do machine learning, so admissions is very competitive. I don’t think it’s necessary to have publications to get into a PhD program, although it does help, and the higher you go in the rankings, the more that you need any help that you can get.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure that I have better advice than to learn as much as you can, do good work, network with others, and work your way up the prestige ladder. 
+It’s true that going to a very highly ranked school gives you an advantage, but I know very good researchers who did not have very good grades in undergrad, and even if you do your PhD at a lower ranked place, if your work is good, it still can stand out.&lt;/p&gt;
+
+&lt;p&gt;And now, a question for my readers (all three of them),
+what do you think?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="questions from readers" /><summary type="html">I got a question the other day about how to start a career in machine learning. I gave the best answer that I could, but I’m not sure that my best was very good. Can you help? If so, join the discussion on social media (or send me a note privately):</summary></entry><entry><title type="html">The three PhD Comic strips that are actually good research advice</title><link href="http://www.theexclusive.org//2019/02/phd-comics.html" rel="alternate" type="text/html" title="The three PhD Comic strips that are actually good research advice" /><published>2019-02-18T08:40:00-08:00</published><updated>2019-02-18T08:40:00-08:00</updated><id>http://www.theexclusive.org//2019/02/phd-comics</id><content type="html" xml:base="http://www.theexclusive.org//2019/02/phd-comics.html">&lt;p&gt;If you’re reading this blog, then you already know about
 &lt;a href=&quot;http://phdcomics.com&quot;&gt;PhD Comics&lt;/a&gt;. If you really haven’t
 seen them before, click the link and read them now.
 They are more insightful and funnier than anything
