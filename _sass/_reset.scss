@@ -36,6 +36,9 @@ ol, ul {
 }
 blockquote, q {
 	quotes: none;
+	border-left: 2pt solid lightgray; 
+	padding-left: 8pt;
+	margin-left: 8pt;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
