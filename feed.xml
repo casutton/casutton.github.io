@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2020-02-01T12:45:41-08:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">How do you break into a career in machine learning?</title><link href="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html" rel="alternate" type="text/html" title="How do you break into a career in machine learning?" /><published>2020-02-01T08:00:00-08:00</published><updated>2020-02-01T08:00:00-08:00</updated><id>http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning</id><content type="html" xml:base="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html">&lt;p&gt;I got a question the other day about how to start a career in machine learning.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2020-05-10T23:38:17-07:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">How do you break into a career in machine learning?</title><link href="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html" rel="alternate" type="text/html" title="How do you break into a career in machine learning?" /><published>2020-02-01T08:00:00-08:00</published><updated>2020-02-01T08:00:00-08:00</updated><id>http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning</id><content type="html" xml:base="http://www.theexclusive.org//2020/02/how-to-begin-in-machine-learning.html">&lt;p&gt;I got a question the other day about how to start a career in machine learning.
 I gave the best answer that I could, but I’m not sure that my best was
-very good. Can you help? If so, &lt;a href=&quot;https://twitter.com/RandomlyWalking/status/1223708744820768768&quot;&gt;join the discussion&lt;/a&gt; 
-on social media, or send me a note privately:&lt;/p&gt;
+very good. Can you help? If so, join the discussion on social media
+(or send me a note privately):&lt;/p&gt;
 
 &lt;p&gt;The question was:&lt;/p&gt;
 
@@ -22,7 +22,227 @@ the United States &lt;em&gt;-cas&lt;/em&gt;] while working part-time as an NLP r
 It’s true that going to a very highly ranked school gives you an advantage, but I know very good researchers who did not have very good grades in undergrad, and even if you do your PhD at a lower ranked place, if your work is good, it still can stand out.&lt;/p&gt;
 
 &lt;p&gt;And now, a question for my readers (all three of them),
-what do you think?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="questions from readers" /><summary type="html">I got a question the other day about how to start a career in machine learning. I gave the best answer that I could, but I’m not sure that my best was very good. Can you help? If so, join the discussion on social media, or send me a note privately:</summary></entry><entry><title type="html">The three PhD Comic strips that are actually good research advice</title><link href="http://www.theexclusive.org//2019/02/phd-comics.html" rel="alternate" type="text/html" title="The three PhD Comic strips that are actually good research advice" /><published>2019-02-18T08:40:00-08:00</published><updated>2019-02-18T08:40:00-08:00</updated><id>http://www.theexclusive.org//2019/02/phd-comics</id><content type="html" xml:base="http://www.theexclusive.org//2019/02/phd-comics.html">&lt;p&gt;If you’re reading this blog, then you already know about
+what do you think?&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="questions from readers" /><summary type="html">I got a question the other day about how to start a career in machine learning. I gave the best answer that I could, but I’m not sure that my best was very good. Can you help? If so, join the discussion on social media (or send me a note privately):</summary></entry><entry><title type="html">ICLR 2020: My first virtual conference</title><link href="http://www.theexclusive.org//2019/05/virtual-iclr.html" rel="alternate" type="text/html" title="ICLR 2020: My first virtual conference" /><published>2019-05-10T12:00:00-07:00</published><updated>2019-05-10T12:00:00-07:00</updated><id>http://www.theexclusive.org//2019/05/virtual-iclr</id><content type="html" xml:base="http://www.theexclusive.org//2019/05/virtual-iclr.html">&lt;p&gt;&lt;em&gt;(or: How I learned to stop worrying and love virtual conferencing.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Many computer science conferences are becoming virtual this year,
+due to travel restrictions.
+I enjoy physical conferences, so I was a bit skeptical
+about virtual conferences, despite their necessity.
+Since &lt;a href=&quot;https://iclr.cc/virtual/index.html&quot;&gt;ICLR 2020&lt;/a&gt; was the first major machine learning
+conference to be virtual,
+this was a good chance to test my skepticism.
+Here’s a personal report about the parts of the conference
+that I had a chance to experience, how well they worked for me,
+and what I would do differently the next time I attend
+a virtual conference.&lt;/p&gt;
+
+&lt;p&gt;At the top, the bottom line:
+ICLR was better than I expected a virtual conference could be.
+Both the format and the &lt;a href=&quot;https://github.com/iclR/iclr.github.io/&quot;&gt;code&lt;/a&gt; should be a model
+for other computer science conferences that are going virtual.
+Massive congratulations are in order for all of the organizers, 
+including the chairs Sasha Rush, Shakir Mohamed,
+Dawn Song, Kyunghyun Cho, and Martha White.
+There’s still more work to be done to make virtual conferences great,
+because we haven’t yet figured out serendipity, or
+how to recreate
+the fluid social dynamics of a large meeting.
+But now we have a great starting point to experiment from.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-it-who-was-there-what-happened&quot;&gt;What is it? Who was there? What happened?&lt;/h2&gt;
+
+&lt;p&gt;The International Conference of Learning Representations (ICLR) is one
+of the largest machine learning research conference.
+The physical ICLR 2019 conference has 2700 attendees.
+This year, the conference accepted 687 research papers from 2594 submissions.&lt;/p&gt;
+
+&lt;p&gt;The organizers of ICLR put an incredible amount of effort
+at short notice to build custom software to support the virtual conference
+(their code is open source, see links at the end).
+The &lt;a href=&quot;https://medium.com/@iclr_conf/format-for-the-iclr2020-virtual-conference-76716ddea640&quot;&gt;conference format&lt;/a&gt;
+featured prerecorded talks, live Q&amp;amp;A sessions both for invited speakers,
+and text chat rooms.
+There were other parts of the conference where I didn’t spend much time:
+I only spent a little time at the workshops, and I didn’t have a chance to
+attend the virtual vendor booths or official conference socials. 
+ICLR 2020 was big, even bigger than the in-person machine learning conferences:
+over 5600 registrations, 1300+ speakers, one million page views, and 100k+ video watches.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-i-loved-about-virtual-iclr&quot;&gt;What I loved about Virtual ICLR&lt;/h2&gt;
+
+&lt;p&gt;Suprisingly, &lt;strong&gt;I really loved the poster sessions.&lt;/strong&gt; Every accepted research
+paper was presented as a virtual poster. Every paper had a web page
+that collected together links to the paper, the reviews (this is ICLR — they use openreview),
+a five-minute video by the authors, a text chat room, and links to a Zoom
+videoconference room specifically for the paper.&lt;/p&gt;
+
+&lt;p&gt;Every day of the conference had five 2-hour poster sessions, spread out to be convenient for
+participants from different time zones. Of course, the videos were always available,
+but each paper was assigned to two different poster session at which the authors could attend
+the Zoom room and answer questions. Assigning each paper to two sessions was designed
+to increase the number of time zones that were conventient for each poster.&lt;/p&gt;
+
+&lt;p&gt;The five-minute videos were my favorite part of the conference.
+They were synchronzied to slides, so if the talk was covering background you already knew,
+or if you missed a point, you could click back and forth in the slides.
+(In person, this is harder to do, and depends on the social and language skills of both participants.)
+I found the videos were a great way to get an overview of many papers and decide
+where I wanted to focus my time. They were much more polished and a little more in
+depth than the elevator pitch that you get at a physical poster when you ask,
+“Could you tell me a bit about this work?”&lt;/p&gt;
+
+&lt;p&gt;The Zoom rooms themselves were sparsely attended. I hopped into the rooms 
+for probably a dozen papers, and usually I was the only one there, apart from the authors.
+Perhaps twice there was one person already asking a question. 
+For me, this was great, because then I could start a ncie conversation with the authors
+(some tips on that later). 
+The downside is I have learned a lot from hearing questions that my colleagues
+have asked at posters — that didn’t happen here.&lt;/p&gt;
+
+&lt;p&gt;The text chat rooms for each paper were active. People would ask detailed technical
+questions and the authors would respond. Some of the discussions were fairly in depth.&lt;/p&gt;
+
+&lt;p&gt;One way that virtual posters are arguably better than physical:
+&lt;em&gt;you could not see who else was looking at the poster&lt;/em&gt;.
+Indeed, even though the Zoom rooms were generally quiet, the posters got a fair amount of attention.
+The median poster had 200 unique views, and the most popular had over 1000.
+Machine learning is a trend-seeking community, for as long as I’ve been a part of it.
+At physical conferences, posters from famous authors and research labs become very crowded,
+so much so that they become short talks (a poster session of repeated loops,
+like in Westworld) rather than scientific discussions. Hiding poster popularity prevented the bad aspects
+of the rich-get-richer dynamics.&lt;/p&gt;
+
+&lt;p&gt;Each poster session had its own page that listed the title and author
+of each paper (but no institutions, again to prevent rich-get-richer) along with an automatically
+generated thumbnail. These were randomly ordered for fairness.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;invited talks worked well&lt;/strong&gt; also. These were prerecorded longer talks with
+a live Q&amp;amp;A. If I remember right, the video of the talks were made available
+the day before the Q&amp;amp;A. This worked well because what you get out of an invited talk,
+you can get just as much from a recording, and the live Q&amp;amp;As were very active.
+In some cases, speakers stayed for over an hour answering questions over
+both audio and text chat.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;overall paper visualization&lt;/strong&gt; was well done. This plotted all of the papers as
+points in 2D space, organized by topic. You could highlight papers by keyword, authoor,
+and so on. These 2D visualizations are often a mess
+(I even have &lt;a href=&quot;https://xuk.ai/darksight/&quot;&gt;a paper discussing that&lt;/a&gt;), but this one seemed to locate papers
+together sensibly. I took some pride in that one of my papers was an outlier at the edge of the display.&lt;/p&gt;
+
+&lt;h2 id=&quot;virtual-vs-physical&quot;&gt;Virtual vs Physical?&lt;/h2&gt;
+
+&lt;p&gt;For me, there are two points to coming to a conference:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Networking. Meeting new people who I can learn from, and learning new things
+from old colleagues.&lt;/li&gt;
+  &lt;li&gt;Broadening my view. I can attend a lot of posters and talks to get a broad snapshot
+of subareas that I might not have time to follow in detail when arxiv preprints come out.
+The curation function that a conference serves, as problematic as it is, really helps me here.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These worked differently at a virtual conference. For broadening my view, the virtual
+conference was actually better, because the five minute videos were overall nicer 
+than the quick explanation that you might get at a physical poster.&lt;/p&gt;
+
+&lt;p&gt;For networking, as you would expect, my experience was more mixed. 
+On the good side, it was easier to meet the poster presenters, because others were Zoom-shy.
+This was great for meeting PhD students. In a lot of ways, though,
+&lt;strong&gt;I found networking harder at a virtual conference&lt;/strong&gt;. Here is what was harder to make happen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It was hard to connect with old colleagues, because I didn’t know who was participating
+in the virtual event when.&lt;/li&gt;
+  &lt;li&gt;I had fewer serendipitous meetings. I can’t count the number of research meetings
+that have started impromptu at local coffeeshops near the conference.
+Sometimes I will start talking to someone I don’t know well, only to find
+that there is an unexpected connection
+between our different research interests. This can result in collaborations,
+invited talks, grant proposals…&lt;/li&gt;
+  &lt;li&gt;Networking cascades. &lt;a href=&quot;https://www.theexclusive.org/2015/05/my-top-conference-attendance-tip.html&quot;&gt;When you meet one person, they might introduce you to others.&lt;/a&gt;
+This can happen naturally, like when you are talking to someone and one of their colleagues
+invites them to lunch. This is harder in a virtual format.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;advice-for-participants-how-to-virtual-conference-with-aplomb&quot;&gt;Advice for participants: How to virtual-conference with aplomb&lt;/h2&gt;
+
+&lt;p&gt;Attending a virtual conference is a different skill from attending a physical one.
+Here are some things that I will try to do better next time:
+For participants:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As much as you can, clear your calendar. Treat the virtual conference as reserved time.
+You say, “That’s hard for me.” I know. It was hard for me too. But if you can reserve
+time to attend a physcial conference, you can do it for a virtual conference.
+Really, no one will stop you.&lt;/li&gt;
+  &lt;li&gt;Preparation helps. For physical conferences, I always have the best intentions to read lots
+of papers on the plane, but it doesn’t always happen. For virtual conferences, I think that
+preparation is more important because the face-to-face time (Zoom rooms etc) is even more limited.
+I wish that I had watched more of the five minute videos in advance of the poster sessions.
+I think it’s also good to be proactive about setting up individual meetings before the conference.&lt;/li&gt;
+  &lt;li&gt;How not to be shy during poster sessions. I have the impressions that many attendees
+were reluctant to participate in the poster sessions because it felt a bit socially awkward,
+and hard to have a good question.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have some &lt;strong&gt;advice for asking virtual poster questions&lt;/strong&gt; (this is an advice blog, after all).
+First, embrace the awkwardness. Yeah, it is a bit awkward at first, but once you
+start talking, it’s just another technical conversation like many you’ve had before.
+Second, yeah, you do need a question, but it doesn’t need to be brilliant,
+and you don’t need to have read the paper. “I watched the video, but I didn’t
+understand how the Thagomizer works. Could you tell me a bit more about that?”
+“Is your regularization scheme related to curriculum learning?”
+“I’m really interested in your work, because my recent work is about machine learning
+for baking sourdough. Do you think that your work could be applied to that?”
+It’s that easy to start a conversation!&lt;/p&gt;
+
+&lt;h2 id=&quot;what-more-could-we-do-next-time&quot;&gt;What more could we do next time?&lt;/h2&gt;
+
+&lt;p&gt;I take away two big positive lessons from virtual ICLR: poster sessions
+can work virtually, and text chat helps a lot.
+How can we do even better? How do we get more serendipity and networking
+in a virtual conferences?&lt;/p&gt;
+
+&lt;p&gt;To support social networking, 
+there is lots of room to &lt;strong&gt;experiment with using videoconferencing creatively&lt;/strong&gt;.
+Perhaps we could see lists of who
+is around the virtual conference at any one time (allowing people to explore anonymously if they prefer.)
+Perhaps we can have low friction ways to create a one-off videoconferencing rooms,
+which others can see and join. Maybe we could consider having “virtual receptions”:
+a one-hour block of time where many people are present to have discussions,
+and people can show up and self-organize videoconference discussions of even 3 or 4 people.
+I sometimes joke that perhaps we could virtually replicate running into someone
+in the hallway: 10% of the time, when you attempt to join the videoconference
+room for a poster, you are redirected to a videoconference with a random participant instead.
+That’s a bit silly, but random chat groups, perhaps in larger groups, and with safegards 
+to prevent abuse, might feasible. Perhaps we will find creative ways to use social
+media during a virtual conference.&lt;/p&gt;
+
+&lt;p&gt;A great example of creative videoconferencing was ICLRTown: a 2D virtul world &lt;em&gt;cum&lt;/em&gt; videoconferencing system.
+You moved a little 2D avatar around an 80s style graphic of a conference center.
+When you get close enough to someone else’s sprite, you see their video
+and can talk to them. We got chats of up to 9 people that way.
+This was fun to play with, but it still seems a work in progress.&lt;/p&gt;
+
+&lt;p&gt;Finally, I wonder to what extent the huge scale of ICLR actually &lt;em&gt;helped&lt;/em&gt; it to be a
+virtual conference, making it easier to spread across timezones, or easier to get
+a critical mass for live Q&amp;amp;A. Most computer sciences conferences are smaller
+than ICLR, so different models might work well for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;resources-about-iclr-and-virtual-conferences&quot;&gt;Resources about ICLR and virtual conferences&lt;/h2&gt;
+
+&lt;p&gt;If this post wasn’t enough, here is more you can read if you find yourself
+in the exciting but scary position of organizing a virtual conference:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iclr.cc/virtual_2020/&quot;&gt;Public archive of all ICLR 2020 content&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@iclr_conf/format-for-the-iclr2020-virtual-conference-76716ddea640&quot;&gt;Blog post describing ICLR 2020 format&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@iclr_conf/gone-virtual-lessons-from-iclr2020-1743ce6164a3&quot;&gt;Blog post describing ICLR 2020 lessons learned&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/srush_nlp/status/1253786329575538691&quot;&gt;Twitter thread describing ICLR software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/iclR/iclr.github.io/&quot;&gt;Source code for ICLR web site&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2004.07668&quot;&gt;Report from EDBT/ICDT 2020 virtual conference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.acm.org/virtual-conferences&quot;&gt;ACM report of virutal conferences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="conferences" /><summary type="html">(or: How I learned to stop worrying and love virtual conferencing.)</summary></entry><entry><title type="html">The three PhD Comic strips that are actually good research advice</title><link href="http://www.theexclusive.org//2019/02/phd-comics.html" rel="alternate" type="text/html" title="The three PhD Comic strips that are actually good research advice" /><published>2019-02-18T08:40:00-08:00</published><updated>2019-02-18T08:40:00-08:00</updated><id>http://www.theexclusive.org//2019/02/phd-comics</id><content type="html" xml:base="http://www.theexclusive.org//2019/02/phd-comics.html">&lt;p&gt;If you’re reading this blog, then you already know about
 &lt;a href=&quot;http://phdcomics.com&quot;&gt;PhD Comics&lt;/a&gt;. If you really haven’t
 seen them before, click the link and read them now.
 They are more insightful and funnier than anything
@@ -70,12 +290,6 @@ to do only incremental work, follow what the cool people are doing, and focus on
 to get you jobs and funding. There are good reasons to do
 some of this, but if this is all that you do,
 then why are you in research?&lt;/p&gt;
-
-    &lt;p&gt;An alternate way to interpret this comic is based on a
-comment I heard in a talk from Daniel Marcu.
-Even in academia, you always have customers for your research,
-just as businesses have customers and artists have
-an audience.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="advice in popular culture" /><category term="phd comics" /><summary type="html">If you’re reading this blog, then you already know about PhD Comics. If you really haven’t seen them before, click the link and read them now. They are more insightful and funnier than anything in this blog.</summary></entry><entry><title type="html">Know thyself. The New Year’s resolution that underlies all productivity advice</title><link href="http://www.theexclusive.org//2019/01/know-thyself.html" rel="alternate" type="text/html" title="Know thyself. The New Year's resolution that underlies all productivity advice" /><published>2019-01-05T08:40:00-08:00</published><updated>2019-01-05T08:40:00-08:00</updated><id>http://www.theexclusive.org//2019/01/know-thyself</id><content type="html" xml:base="http://www.theexclusive.org//2019/01/know-thyself.html">&lt;p&gt;I’m a sucker for New Year’s resolutions.
 Every year I make up a half dozen resolutions,
@@ -655,53 +869,4 @@ value that we create does not return to the institution.
 You become an academic because you believe the specialized
 knowledge that fascinates you has, in some small sense,
 importance to society as a whole. Another responsibility,
-and another stressor!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The third post in what is becoming an increasingly long series on stress in research.</summary></entry><entry><title type="html">Stress in Research. Part II&amp;amp;#58 Research Worth and Self-Worth</title><link href="http://www.theexclusive.org//2018/04/worth.html" rel="alternate" type="text/html" title="Stress in Research. Part II&amp;#58 Research Worth and Self-Worth" /><published>2018-04-07T00:00:00-07:00</published><updated>2018-04-07T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/04/worth</id><content type="html" xml:base="http://www.theexclusive.org//2018/04/worth.html">&lt;p&gt;&lt;em&gt;The second post in what is perhaps a
-&lt;a href=&quot;/tag/stress%20in%20research&quot;&gt;series on stress in research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;It might be surprising, but one of the main sources of stress in research is self-esteem.
-It’s so common and tempting to think of career success as a measure of one’s moral worth as a person. Stated so bluntly, it sounds like the silliest thing in the world to believe, yet I expect that we have all, at least at times, at least unconsciously, fallen into this trap.&lt;/p&gt;
-
-&lt;p&gt;The source of this trap is cognitive dissonance, and the danger of the trap is that research is a roller coaster. Every researcher has days when they’ve had some good success, and they feel on top of the world. To resolve the cognitive dissonance, you feel that because you’re happy about one thing, you’re happy about everything. Your career is going well, your personal life is going well, you’re just a good person all around.&lt;/p&gt;
-
-&lt;p&gt;But you know what they say about what goes up. There will always be weeks and months when experiments don’t work, when paper submissions and job applications are rejected, several in a row. Then the emotional effects can hit hard. Nobody likes having a frustrating time in their research. But if you conflate research worth with self-worth, if you tell yourself that the main way that your life will contribute to the world is by your groundbreaking work, then when your research is going poorly, you feel like a failure in life. Not for nothing has it been observed &lt;a href=&quot;https://www.timeshighereducation.com/news/academics-face-higher-mental-health-risk-than-other-professions&quot;&gt;that academics face relatively high mental health risk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;So how do we avoid the trap of conflating your colleagues’ respect for you as a researcher with your own self-respect as a human being? For what it’s worth, I’d expect that this trap occurs in all of the creative professions. Indeed, as much as academics like to think of ourselves as unique creatures, none of the sources of stress in research are unique to the job of research. Perhaps that is a topic for another time, but it does not help us here: Knowing that our stress is shared is not alone enough to relieve it.&lt;/p&gt;
-
-&lt;p&gt;Another blog might tell you: Keep a professional distance. The way to  avoid conflating your research success to your self-worth is to think of research as a job rather than a calling. But that’s not the advice that I will give, because if you want to do good work, sometimes you need
-to take things personally. As the great Captain says, sometimes &lt;a href=&quot;https://www.youtube.com/watch?v=WLzJAebfEIg&quot;&gt;you need your pain&lt;/a&gt;. So I’ll ask the question differently.
-How do we keep our passion for research without harming our mental health?&lt;/p&gt;
-
-&lt;p&gt;The mental tricks that work a bit for me, may not work for you. So I’ll list a
-few different mental strategies, strategies for self-talk — those who know me
-will know that I am a big fan of talking to myself — that you can experiment with.&lt;/p&gt;
-
-&lt;p&gt;One strategy is to focus on the fun, for example, by treating a tenure-track faculty job &lt;a href=&quot;https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/&quot;&gt;like a seven-year postdoc&lt;/a&gt;. Richard Feynman has a wonderful story about &lt;a href=&quot;https://www.physics.ohio-state.edu/~kilcup/262/feynman.html&quot;&gt;recapturing fun in his research&lt;/a&gt;. One always wonders if Feynman’s stories are exaggerated, but the principle of countering stress by fun is surely sound.&lt;/p&gt;
-
-&lt;p&gt;Another good strategy is to have backup sources of self-worth. Academic jobs are naturally set up this way. Even if no one reads my papers the minute after I die, or frankly, the minute after they’re written, I’ve still taught hundreds of students about fundamental knowledge that has helped them, if only a little. That’s another source of professional self-worth. Or of course, one can seek self-worth from being a good child, parent, spouse, sibling, and friend. Both of these — teaching and family — are instances of a more general point. &lt;em&gt;We should find worth in our relationships with other people.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Another strategy is simply to have truly excessive reserves of self-confidence, so that whenever the roller coaster goes down, you can tell yourself with absolute conviction that the roller coaster will go up again, because by god you are brilliant enough to push it up again all by yourself. I know I’m making this sound ridiculous, but I’ve read an interview with a Nobelist who basically said that lots of other people doubted him, but he never doubted himself. Whether it was bravado or truth I don’t know, but hey, if it works for him.&lt;/p&gt;
-
-&lt;p&gt;A final strategy of which I’m personally fond. I firmly believe that one of the most important mental
-abilities in life, one that to the great detriment of our world few people master, is to learn to believe contradictory things. One of the many lovely details of
-&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Kingkiller_Chronicle&quot;&gt;the Kingkiller Chronicles&lt;/a&gt;
-is that there is a type of magic that depends on &lt;a href=&quot;http://kingkiller.wikia.com/wiki/Sympathy&quot;&gt;having a will strong
-enough to believe contradictory things simultaneously&lt;/a&gt;.
-Back in this world, almost all statements
-are sometimes true and sometimes false. The same is true in research.&lt;/p&gt;
-
-&lt;p&gt;An example of embracing a noble contradiction: I do believe that, if you want to be
-effective as a researcher, work needs to be the most important thing to you
-&lt;em&gt;during the time that you are working&lt;/em&gt;.
-Creative work really does require complete focus. But there is no need
-to maintain this belief while you are not working. During those times, you can understand
-that most research work comes to nothing, and that is no waste as long as some
-small fraction of the research in the world makes a large enough difference.&lt;/p&gt;
-
-&lt;p&gt;Another example: Because our careers require so much time and passion, it’s natural that professional colleagues sometimes become personal friends. This means that  I think it’s important to be able to value someone as a friend, even if you do not particularly care for their research.
-Stated plainly, this is obvious — how could it be otherwise? — but it’s so
-easy to be confused into thinking that once you admire one aspect of someone,
-that you like everything about them.
-Again, this is a confusion that arises from cognitive dissonance.
-It requires conscious effort to be able to separate your admiration or criticism of someone’s work with your admiration (or lack thereof!) of them as a trustworthy, loyal friend.&lt;/p&gt;
-
-&lt;p&gt;Once I’ve learned to do that, perhaps I can extend the same courtesy to myself.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The second post in what is perhaps a series on stress in research.</summary></entry></feed>
+and another stressor!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The third post in what is becoming an increasingly long series on stress in research.</summary></entry></feed>
