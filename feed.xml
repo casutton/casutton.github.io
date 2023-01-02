@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2020-05-10T23:40:11-07:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">ICLR 2020: My first virtual conference</title><link href="http://www.theexclusive.org//2020/05/virtual-iclr.html" rel="alternate" type="text/html" title="ICLR 2020: My first virtual conference" /><published>2020-05-10T12:00:00-07:00</published><updated>2020-05-10T12:00:00-07:00</updated><id>http://www.theexclusive.org//2020/05/virtual-iclr</id><content type="html" xml:base="http://www.theexclusive.org//2020/05/virtual-iclr.html">&lt;p&gt;&lt;em&gt;(or: How I learned to stop worrying and love virtual conferencing.)&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://www.theexclusive.org//feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.theexclusive.org//" rel="alternate" type="text/html" /><updated>2023-01-02T11:34:47-08:00</updated><id>http://www.theexclusive.org//feed.xml</id><title type="html">The Exclusive Or</title><subtitle>On academic, expatriate, and other unusual forms of life.</subtitle><entry><title type="html">Joy in Research</title><link href="http://www.theexclusive.org//2023/01/joy.html" rel="alternate" type="text/html" title="Joy in Research" /><published>2023-01-01T11:00:00-08:00</published><updated>2023-01-01T11:00:00-08:00</updated><id>http://www.theexclusive.org//2023/01/joy</id><content type="html" xml:base="http://www.theexclusive.org//2023/01/joy.html">&lt;p&gt;It’s hard to remember what machine learning conferences were like in person, but I think that I liked them a lot better when the field was smaller. It was easier to meet new people, to talk about new ideas in small groups of talented people who were really excited by them. The culture of the field has changed from back then, in intellectual ways that you know already, but the social ways are worth reflecting on, too.&lt;/p&gt;
+
+&lt;p&gt;Romanticizing the past is a sorry hobby for old men. I will not do that. All research communities have a callous system at their core — I’ve written about the &lt;a href=&quot;/2018/03/tournament-axe.html&quot;&gt;toxic&lt;/a&gt; &lt;a href=&quot;/2018/04/worth.html&quot;&gt;forces&lt;/a&gt; that drive and derail research careers — that’s always been the case.&lt;/p&gt;
+
+&lt;p&gt;Maybe now, these forces have gotten stronger and worse: The field is so much larger, we don’t all know each other, and the rewards for success are greater than I would have thought possible twenty years ago. The incentive to be competitive rather than kind, to fight on social media rather than to learn from people you disagree with, to speak hype rather than forthright truth, is so hard to resist. The temptation, in a word, to career rather than to learn. And as loath as I am to admit it, I have changed, too. Probably in similar ways, and for similar reasons.&lt;/p&gt;
+
+&lt;p&gt;Of course I wouldn’t want to go back. The most exciting time to be in this field is right now. But maybe I would go back in time, if just to grab something and come back. What I would bring with me is joy. Joy in reading a paper with a cute new idea, and chatting about it with friends over lunch. The joy that would impel us to make up a stupid song or a silly skit about our research workshop, with the same spirit of play to work out a new kind of algorithm, which may seem silly at first.&lt;/p&gt;
+
+&lt;p&gt;Joy in learning, joy in sharing, and joy in trying things out.&lt;/p&gt;
+
+&lt;p&gt;Happy new year!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="new years" /><summary type="html">It’s hard to remember what machine learning conferences were like in person, but I think that I liked them a lot better when the field was smaller. It was easier to meet new people, to talk about new ideas in small groups of talented people who were really excited by them. The culture of the field has changed from back then, in intellectual ways that you know already, but the social ways are worth reflecting on, too. Romanticizing the past is a sorry hobby for old men. I will not do that. All research communities have a callous system at their core — I’ve written about the toxic forces that drive and derail research careers — that’s always been the case.</summary></entry><entry><title type="html">ICLR 2020: My first virtual conference</title><link href="http://www.theexclusive.org//2020/05/virtual-iclr.html" rel="alternate" type="text/html" title="ICLR 2020: My first virtual conference" /><published>2020-05-10T12:00:00-07:00</published><updated>2020-05-10T12:00:00-07:00</updated><id>http://www.theexclusive.org//2020/05/virtual-iclr</id><content type="html" xml:base="http://www.theexclusive.org//2020/05/virtual-iclr.html">&lt;p&gt;&lt;em&gt;(or: How I learned to stop worrying and love virtual conferencing.)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Many computer science conferences are becoming virtual this year,
 due to travel restrictions.
@@ -771,102 +781,4 @@ skills are.&lt;/p&gt;
 
 &lt;p&gt;And the term implies something else. Social skills are skills.
 You can learn them.
-And it is in the interests of your career to do so.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="social skills" /><category term="painfully extended metaphors" /><summary type="html">Benjamin “Lefty Guns” Ruggiero was a fearsome Mafia hitman in New York in the 70s. According to an undercover FBI agent who knew him well, he was smart and savvy in underworld situations. He could walk into a restaurant where he knew no one, watch who talked to who, watch how they talked, and work out who was in the underworld, who received more deference, whether the restaurant was being extorted.</summary></entry><entry><title type="html">Stress in Research. Part III&amp;amp;#58 The Trouble about Freedom</title><link href="http://www.theexclusive.org//2018/05/freedom.html" rel="alternate" type="text/html" title="Stress in Research. Part III&amp;#58 The Trouble about Freedom" /><published>2018-05-05T00:00:00-07:00</published><updated>2018-05-05T00:00:00-07:00</updated><id>http://www.theexclusive.org//2018/05/freedom</id><content type="html" xml:base="http://www.theexclusive.org//2018/05/freedom.html">&lt;p&gt;&lt;em&gt;The third post in what is becoming an increasingly long
-series on &lt;a href=&quot;/tag/stress%20in%20research&quot;&gt;stress in research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I joked before that there’s no reason researchers should feel stress:
-how stressful can a job be if you’re not expected to roll in to work until 10
-o’clock in the morning? But more seriously, this
-flexibility is itself a source of stress.&lt;/p&gt;
-
-&lt;p&gt;Academics don’t really have bosses, despite what our
-senior leadership sometimes seem to think. We do have a head
-of department, of course, but the relationship isn’t
-like having a supervisor. I don’t have weekly meetings
-with my department head to report my progress on my current
-projects. And I would &lt;em&gt;never&lt;/em&gt; go to my head of department and say I’ve got too much to do, can she tell me
-how I should prioritize my workload so that I focus on tasks
-that are most important to the University.
-The very idea is laughable.&lt;/p&gt;
-
-&lt;p&gt;Instead of having a boss, we have &lt;a href=&quot;http://www.pgbovine.net/why-academics-feel-overworked.htm&quot;&gt;sources of work&lt;/a&gt;. Students from our own university and around the world ask us if we
-can supervise their research projects. We
-review and comment on reports from our own students.
-We are asked to evaluate finished PhD theses from students
-at other universities, in our own country
-and worldwide.
- Funding agencies from our country and others ask
-us to review proposals for multi-million pound research projects.
-Representatives from the government ask us
-to discuss connections with problems of national interest.
-We organize workshops and conferences.
-We meet researchers in other universities and governments
-to learn about their work and explore potential collaborations.
-The great thing about the blog I just linked to
-— it is actually called &lt;a href=&quot;http://www.pgbovine.net/why-academics-feel-overworked.htm&quot;&gt;why academics feel overworked&lt;/a&gt; — is that it tries to make a complete
-list of where academic work comes from.
-My list just above is incomplete
-because I’m only mentioning things that I can remember
-happening in the past week. (And this, with me
- on sabbatical;
-I’m not teaching this year.)
-All of these sources of work are people who are asking
-politely for our help on important work of their own.
-None of these sources of work know about each other.&lt;/p&gt;
-
-&lt;p&gt;To be successful, of course it is important to learn to say “no”, and to learn to say “no” often.
-There are tricks about how to say “no” better, in a way
-that helps the person who have asked. Many other blogs
-talk about that, so I won’t go further now.
-It’s enough to say that even if you say “no” a lot,
-you will still have a lot to do.&lt;/p&gt;
-
-&lt;p&gt;Instead, I want to talk about flexibility.
-It’s no surprise that having a lot to do creates stress.
-But having the flexibility to choose what to do
-also creates stress.
-The problem is that flexibility creates guilt.
-Suppose I have tasks A, B, C, and D to do — too many — and
-my boss instructs me to prioritize C, even though I think A
-is more important. I might be annoyed or dismayed
-by a poor decision being made, but I’m not &lt;em&gt;responsible&lt;/em&gt;
-for the poor decision.&lt;/p&gt;
-
-&lt;p&gt;When &lt;em&gt;I&lt;/em&gt; prioritize, I &lt;em&gt;am&lt;/em&gt; responsible.
-When I choose to do one thing, I’m keenly aware
-that there are many other things that I could be doing,
-behind each a person who would like a few minutes
-(or a few hours) of my help. For every thing I choose to do,
-there are other people that I feel like I am letting down.
-I am never quite
-sure if the thing I have chosen to do is the right one.
-Sometimes I’m quite sure that the thing that I’m doing
-is &lt;em&gt;not&lt;/em&gt; the most important, but maybe simply the most
-important that I have enough energy for.&lt;/p&gt;
-
-&lt;p&gt;Why is the flexibility necessary?
-Why couldn’t academic work and research work be managed
-more directly, like other types of work?
-Our situation is not as unusual as it may seem —
-in any career, the more senior you become, the more
-you are expected to set the agenda rather than follow an
-agenda that is given to you. In academia and research specifically, there are
-two forces that mandate flexibility for good work.&lt;/p&gt;
-
-&lt;p&gt;The first: If you do not have freedom to prioritize,
-you do not have intellectual freedom, because part of intellectual
-freedom is deciding what to think about.&lt;/p&gt;
-
-&lt;p&gt;The second: The job
-of a researcher is about creating positive externalities.
-Our work is to perpetuate and create a large portion
-of human knowledge. When we succeed, the value of our work is enjoyed
-by society as a whole, rather than the institution
-that employs us. This is why the idea of going to my department
-head for advice on prioritizing is so laughable.
-We cannot ask the institution what is most valuable, because so much of the
-value that we create does not return to the institution.
-You become an academic because you believe the specialized
-knowledge that fascinates you has, in some small sense,
-importance to society as a whole. Another responsibility,
-and another stressor!&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The third post in what is becoming an increasingly long series on stress in research.</summary></entry></feed>
+And it is in the interests of your career to do so.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="social skills" /><category term="painfully extended metaphors" /><summary type="html">Benjamin “Lefty Guns” Ruggiero was a fearsome Mafia hitman in New York in the 70s. According to an undercover FBI agent who knew him well, he was smart and savvy in underworld situations. He could walk into a restaurant where he knew no one, watch who talked to who, watch how they talked, and work out who was in the underworld, who received more deference, whether the restaurant was being extorted.</summary></entry></feed>
