@@ -6,7 +6,9 @@
 name: The Exclusive Or
 
 # Short bio or description (displayed in the header)
-description: On academic, expatriate, and other unusual forms of life.
+# description: On academic, expatriate, and other unusual forms of life eh....
+description: How to be creative, productive, and happy as a researcher. Advice and reflections from a working scientist in machine learning.
+short_description: Advice on how to be creative, productive, and happy as a researcher.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/xor.png
