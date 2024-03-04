@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="https://www.theexclusive.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.theexclusive.org/" rel="alternate" type="text/html" /><updated>2023-01-17T21:18:44-08:00</updated><id>https://www.theexclusive.org/feed.xml</id><title type="html">The Exclusive Or</title><subtitle>How to be creative, productive, and happy as a researcher. Advice and reflections from a working scientist in machine learning.</subtitle><author><name>Charles Sutton</name></author><entry><title type="html">Joy in Research</title><link href="https://www.theexclusive.org/2023/01/joy.html" rel="alternate" type="text/html" title="Joy in Research" /><published>2023-01-01T11:00:00-08:00</published><updated>2023-01-01T11:00:00-08:00</updated><id>https://www.theexclusive.org/2023/01/joy</id><content type="html" xml:base="https://www.theexclusive.org/2023/01/joy.html">&lt;p&gt;It’s hard to remember what machine learning conferences were like in person, but I think that I liked them a lot better when the field was smaller. It was easier to meet new people, to talk about new ideas in small groups of talented people who were really excited by them. The culture of the field has changed from back then, in intellectual ways that you know already, but the social ways are worth reflecting on, too.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://www.theexclusive.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.theexclusive.org/" rel="alternate" type="text/html" /><updated>2024-03-03T19:56:22-08:00</updated><id>https://www.theexclusive.org/feed.xml</id><title type="html">The Exclusive Or</title><subtitle>How to be creative, productive, and happy as a researcher. Advice and reflections from a working scientist in machine learning.</subtitle><author><name>Charles Sutton</name></author><entry><title type="html">What I Observed about Research Networking from Joining the Mafia</title><link href="https://www.theexclusive.org/2024/03/mafia.html" rel="alternate" type="text/html" title="What I Observed about Research Networking from Joining the Mafia" /><published>2024-03-03T00:00:00-08:00</published><updated>2024-03-03T00:00:00-08:00</updated><id>https://www.theexclusive.org/2024/03/mafia</id><content type="html" xml:base="https://www.theexclusive.org/2024/03/mafia.html">&lt;p&gt;I’ve written before about Joseph Pistone, an undercover FBI agent who tricked his way into joining the U.S. mafia in the 1970s,
+and how &lt;a href=&quot;https://www.amazon.com/Donnie-Brasco-Undercover-Joseph-Pistone/dp/0451192575&quot;&gt;his account of the mafia&lt;/a&gt; 
+reminds me of my experience of doing research. Here’s another connection between the underworld and the research world.
+Brasco tells this story about his boss, Sonny, who has just come back from a meeting with the big boss
+of another organization (Trafficante).
+Think of this like a middle manager meeting with a CEO of a different company.
+This is what we read:&lt;/p&gt;
+
+&lt;figure class=&quot;quote&quot;&gt;
+&lt;blockquote&gt;
+In the car Sonny unwound. “It was a feeling-out conversation,” he says, “I told [Trafficante], ‘listen, I&apos;m no sophisticated person. I&apos;m a street person all my life.’ I says, ‘I love the streets, you know. I don&apos;t know nothing about nothing, about gambling or anything.’ I says, ‘Me, I just like to go in the street, rob who the f__k I gotta rob.’” -Donnie Brasco: My Undercover Life in the Mafia
+&lt;/blockquote&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What impressed me about this was that mobsters &lt;em&gt;have&lt;/em&gt; feeling-out conversations.
+If you want to be a career criminal, you can’t do it all on your own. You need to know other people
+who can steal stuff along with you, buy the stuff you have stolen, fight people who are trying 
+to cheat you.
+The truth is — according to my reading, I don’t have first-hand experience! — that 
+professional networking is absolutely vital if you want to make money in the mafia.&lt;/p&gt;
+
+&lt;p&gt;I could imagine the equivalent of this feeling-out conversation in the tech industry, or in academia.
+We don’t go into the street and rob anybody, of course, we’d be laughably incompetent at that.
+I could imagine a professor telling a new student, “Oh, I still like to write code once in a while,
+it helps me stay grounded.” Or I think of advice for &lt;a href=&quot;https://newsletter.pragmaticengineer.com/p/staying-hands-on&quot;&gt;tech managers about how to stay
+technical&lt;/a&gt;, you know, so they can “go in the street”.&lt;/p&gt;
+
+&lt;p&gt;I was thinking about this when I was starting a new collaboration, a while back.
+You want to work together, you both talk about why you’re excited about the direction,
+how it’s going to be great because we’re all bringing complementary skills to the table.
+Maybe you mention how much you’ve enjoyed reading their work over the years.
+Probably this is all true — you wouldn’t be considering the collaboration otherwise!
+But from now on, every time this happens, I’m going to be thinking about those two
+mafia guys in the 1970s, considering a new potential “collaboration” down in Florida.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="collaboration" /><category term="mafia" /><summary type="html">I’ve written before about Joseph Pistone, an undercover FBI agent who tricked his way into joining the U.S. mafia in the 1970s, and how his account of the mafia reminds me of my experience of doing research. Here’s another connection between the underworld and the research world. Brasco tells this story about his boss, Sonny, who has just come back from a meeting with the big boss of another organization (Trafficante). Think of this like a middle manager meeting with a CEO of a different company. This is what we read:</summary></entry><entry><title type="html">Joy in Research</title><link href="https://www.theexclusive.org/2023/01/joy.html" rel="alternate" type="text/html" title="Joy in Research" /><published>2023-01-01T11:00:00-08:00</published><updated>2023-01-01T11:00:00-08:00</updated><id>https://www.theexclusive.org/2023/01/joy</id><content type="html" xml:base="https://www.theexclusive.org/2023/01/joy.html">&lt;p&gt;It’s hard to remember what machine learning conferences were like in person, but I think that I liked them a lot better when the field was smaller. It was easier to meet new people, to talk about new ideas in small groups of talented people who were really excited by them. The culture of the field has changed from back then, in intellectual ways that you know already, but the social ways are worth reflecting on, too.&lt;/p&gt;
 
 &lt;p&gt;Romanticizing the past is a sorry hobby for old men. I will not do that. All research communities have a callous system at their core — I’ve written about the &lt;a href=&quot;/2018/03/tournament-axe.html&quot;&gt;toxic&lt;/a&gt; &lt;a href=&quot;/2018/04/worth.html&quot;&gt;forces&lt;/a&gt; that drive and derail research careers — that’s always been the case.&lt;/p&gt;
 
@@ -301,7 +334,7 @@ to get you jobs and funding. There are good reasons to do
 some of this, but if this is all that you do,
 then why are you in research?&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="advice in popular culture" /><category term="phd comics" /><summary type="html">If you’re reading this blog, then you already know about PhD Comics. If you really haven’t seen them before, click the link and read them now. They are more insightful and funnier than anything in this blog.</summary></entry><entry><title type="html">Know thyself. The New Year’s resolution that underlies all productivity advice</title><link href="https://www.theexclusive.org/2019/01/know-thyself.html" rel="alternate" type="text/html" title="Know thyself. The New Year's resolution that underlies all productivity advice" /><published>2019-01-05T08:40:00-08:00</published><updated>2019-01-05T08:40:00-08:00</updated><id>https://www.theexclusive.org/2019/01/know-thyself</id><content type="html" xml:base="https://www.theexclusive.org/2019/01/know-thyself.html">&lt;p&gt;I’m a sucker for New Year’s resolutions.
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="advice in popular culture" /><category term="phd comics" /><summary type="html">If you’re reading this blog, then you already know about PhD Comics. If you really haven’t seen them before, click the link and read them now. They are more insightful and funnier than anything in this blog.</summary></entry><entry><title type="html">Know thyself. The New Year’s resolution that underlies all productivity advice</title><link href="https://www.theexclusive.org/2019/01/know-thyself.html" rel="alternate" type="text/html" title="Know thyself. The New Year&apos;s resolution that underlies all productivity advice" /><published>2019-01-05T08:40:00-08:00</published><updated>2019-01-05T08:40:00-08:00</updated><id>https://www.theexclusive.org/2019/01/know-thyself</id><content type="html" xml:base="https://www.theexclusive.org/2019/01/know-thyself.html">&lt;p&gt;I’m a sucker for New Year’s resolutions.
 Every year I make up a half dozen resolutions,
 usually the same ones each year, and carefully track
 my progress for at least two or three months
@@ -468,7 +501,7 @@ the poster to one person when a group seemed to come
 up out of nowhere. I just looked at my faithful
 original audience and said, “You might want to take
 a step back, because I’m about to shout.” I did, and he did. I didn’t restart my talk, but I added in a few background phrases here
-and there to help the larger group get context.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="presentation advice" /><summary type="html">A lot of scientific communication happens at poster sessions. It’s a great way to learn about the field, and to meet new people with similar research interests. It’s also a great way to be noticed in a crowded research field. Presenting a poster is just as important, and requires as much specialized skill, as giving a 25-minute talk. Way back when, before this blog became what it is, I wrote advice for presenting research posters. Back when I started attending research conferences, advice like that was probably good enough.</summary></entry><entry><title type="html">Stress in Research. Part V&amp;amp;#58 If you really are an Impostor, then it’s not a Syndrome</title><link href="https://www.theexclusive.org/2018/09/impostor.html" rel="alternate" type="text/html" title="Stress in Research. Part V&amp;#58 If you really are an Impostor, then it's not a Syndrome" /><published>2018-09-03T00:00:00-07:00</published><updated>2018-09-03T00:00:00-07:00</updated><id>https://www.theexclusive.org/2018/09/impostor</id><content type="html" xml:base="https://www.theexclusive.org/2018/09/impostor.html">&lt;figure class=&quot;quote&quot;&gt;
+and there to help the larger group get context.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="presentation advice" /><summary type="html">A lot of scientific communication happens at poster sessions. It’s a great way to learn about the field, and to meet new people with similar research interests. It’s also a great way to be noticed in a crowded research field. Presenting a poster is just as important, and requires as much specialized skill, as giving a 25-minute talk. Way back when, before this blog became what it is, I wrote advice for presenting research posters. Back when I started attending research conferences, advice like that was probably good enough.</summary></entry><entry><title type="html">Stress in Research. Part V&amp;amp;#58 If you really are an Impostor, then it’s not a Syndrome</title><link href="https://www.theexclusive.org/2018/09/impostor.html" rel="alternate" type="text/html" title="Stress in Research. Part V&amp;#58 If you really are an Impostor, then it&apos;s not a Syndrome" /><published>2018-09-03T00:00:00-07:00</published><updated>2018-09-03T00:00:00-07:00</updated><id>https://www.theexclusive.org/2018/09/impostor</id><content type="html" xml:base="https://www.theexclusive.org/2018/09/impostor.html">&lt;figure class=&quot;quote&quot;&gt;
 &lt;blockquote&gt;
 As you know, there isn’t really any solution to self-doubt. In the end,
 you just have to write and doubt simultaneously.  
@@ -733,52 +766,4 @@ in front of the class, either. You need to find something in the middle,
 and the same goes for the service that you do inside and outside
 of the university.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The fourth in a tidal wave of posts about stress in research.</summary></entry><entry><title type="html">Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman</title><link href="https://www.theexclusive.org/2018/06/mafia.html" rel="alternate" type="text/html" title="Social Skills in Context, or How being a Professor is Kind of Like Being a Mafia Hitman" /><published>2018-06-01T00:00:00-07:00</published><updated>2018-06-01T00:00:00-07:00</updated><id>https://www.theexclusive.org/2018/06/mafia</id><content type="html" xml:base="https://www.theexclusive.org/2018/06/mafia.html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Benjamin_Ruggiero&quot;&gt;Benjamin “Lefty Guns” Ruggiero&lt;/a&gt;
-was a fearsome Mafia hitman in New York in the 70s.
-According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph_D._Pistone&quot;&gt;an undercover FBI agent&lt;/a&gt;
-who knew him well, he was smart and savvy in underworld situations.
-He could walk into a restaurant where he knew no one,
-watch who talked to who, watch how they talked,
-and work out who was in the underworld, who received more deference,
-whether the restaurant was being extorted.&lt;/p&gt;
-
-&lt;p&gt;In other situations, a different story. The FBI agent,
-Joseph Pistone, was himself an incredibly perceptive observer
-(if he wasn’t, he’d have been murdered). He reports:&lt;/p&gt;
-
-&lt;figure class=&quot;quote&quot;&gt;
-&lt;blockquote&gt;
-A lot of these wiseguys did not have the ability to move around the country.
-Once you got these guys out of New York City, they were like fish out of water....
-As they schooled me in the mafia, I had to school them on how to make airline reservations.
-I am talking about a 49-year-old man,
-telling him how to make airline reservations to three different cities, with an
-open return, because we
-did not know what date we were going to return to New York City.
-&lt;/blockquote&gt;
-&lt;figcaption class=&quot;quote-source&quot;&gt;
-  &lt;span class=&quot;quote-author&quot;&gt;Joseph Pistone&lt;/span&gt;
-  &lt;cite class=&quot;quote-title&quot;&gt;Donnie Brasco: My Undercover Life in the Mafia&lt;/cite&gt;
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Of course I was immediately reminded of computer science research.
-In research situations, I think of myself as reasonably socially aware:
-I have a network of mentors, students, and collaborators;
-I can meet new colleagues and have interesting technical discussions;
-I can even navigate the occasional difficult conversation when the need
-arises.&lt;/p&gt;
-
-&lt;p&gt;But outside of work, I can be a bit more awkward,
-or at least that’s what my wife says.&lt;/p&gt;
-
-&lt;p&gt;We stereotype technical people as having low social skills, and
-I’ll admit knowing people who fully meet that stereotype.
-The Mafia hitman reminds us that social skills are context specific:
-you can be savvy in one type of situation, and clueless in another.
-“Social skills” aren’t a single skill, any more than intellectual
-skills are.&lt;/p&gt;
-
-&lt;p&gt;And the term implies something else. Social skills are skills.
-You can learn them.
-And it is in the interests of your career to do so.&lt;/p&gt;</content><author><name>Charles Sutton</name></author><category term="social skills" /><category term="painfully extended metaphors" /><summary type="html">Benjamin “Lefty Guns” Ruggiero was a fearsome Mafia hitman in New York in the 70s. According to an undercover FBI agent who knew him well, he was smart and savvy in underworld situations. He could walk into a restaurant where he knew no one, watch who talked to who, watch how they talked, and work out who was in the underworld, who received more deference, whether the restaurant was being extorted.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Charles Sutton</name></author><category term="advice" /><category term="stress in research" /><summary type="html">The fourth in a tidal wave of posts about stress in research.</summary></entry></feed>
