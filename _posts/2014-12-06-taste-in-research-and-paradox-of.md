@@ -6,6 +6,7 @@ author: Charles Sutton
 tags:
 - advice
 - meta-research
+- advice for researchers
 modified_time: '2016-12-28T04:51:52.099-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-8251426721361572599
 blogger_orig_url: http://www.theexclusive.org/2014/12/taste-in-research-and-paradox-of.html

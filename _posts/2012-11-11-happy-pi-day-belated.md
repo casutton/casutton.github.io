@@ -4,6 +4,7 @@ title: Happy Pi Day! (belated)
 date: '2012-11-10T16:06:00.000-08:00'
 author: Charles Sutton
 tags: 
+ - silly
 modified_time: '2012-11-10T16:06:43.795-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-291864211440351721
 blogger_orig_url: http://www.theexclusive.org/2012/11/happy-pi-day-belated.html

@@ -6,6 +6,7 @@ author: Charles Sutton
 tags:
 - lecturing
 - advice
+- advice for professors
 modified_time: '2016-12-28T04:53:18.241-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-7959900858822712359
 blogger_orig_url: http://www.theexclusive.org/2013/06/and-can-you-teach-me-how-to-talk-real.html

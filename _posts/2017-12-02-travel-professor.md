@@ -4,6 +4,7 @@ title: Travel a lot? Here's how to stay organized, like professors do
 author: Charles Sutton
 tags:
 - advice
+- travel tips
 - organizational advice
 date: 2017-12-02 17:00:00
 ---

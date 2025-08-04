@@ -5,6 +5,7 @@ date: '2015-01-03T12:00:00.000-08:00'
 author: Charles Sutton
 tags:
 - productivity
+- advice for researchers
 modified_time: '2015-01-03T12:00:00.486-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-207822458103940153
 blogger_orig_url: http://www.theexclusive.org/2015/01/early-to-rise-early-to-read-research.html

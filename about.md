@@ -37,4 +37,8 @@ is longer than I might like) is [by email](mailto:csutton@inf.ed.ac.uk).
 
 ## Colophon
 
-I made this [using Jekyll](https://jekyllrb.com/). See [the source on Github](https://github.com/casutton/casutton.github.io).
+I made this [using Jekyll](https://jekyllrb.com/). See [the source on Github](https://github.com/casutton/casutton.github.io). I forked the template from 
+[Jekyll Now!](https://github.com/barryclark/jekyll-now)
+with a bunch of custom changes.
+I grabbed some ideas from the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
+

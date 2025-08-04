@@ -15,17 +15,17 @@ The entire blog, by year. You may prefer to see these
 organized <a href="by-tag.html">by tag</a>.
 </p>
 
+<ul class="post-archive-list">
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h2 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h2>
-    <ul class="post-archive-list">
-    {% assign date = currentdate %}
-  {% endif %}
-    <li class="post-archive-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
-  {% endfor %}
+  {% assign date = post.date | date: "%Y" %}
+  <span class="post-archive-date">
+    {% if date == previous_date %}&nbsp;{% else %}{{post.date | date: "%Y"}}{% endif %}
+  </span>
+  <span class="post-archive-date">{{post.date | date: "%b"}}: </span>
+  <span class="post-archive-link"><a href="{{ post.url }}">{{ post.title }}</a></span>
+  {% assign previous_date = date %}
+{% endfor %}
+</ul>
 
 </div>
 </div>

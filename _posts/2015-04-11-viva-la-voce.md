@@ -7,6 +7,7 @@ tags:
 - britain
 - advice
 - academic customs
+- advice for phd students
 modified_time: '2015-04-11T05:48:48.170-07:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-3828697239579815603
 blogger_orig_url: http://www.theexclusive.org/2015/04/viva-la-voce.html

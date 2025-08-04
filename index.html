@@ -1,5 +1,7 @@
 ---
 layout: default
+pagination:
+  enabled: true
 ---
 
 <div class="posts">
@@ -7,29 +9,36 @@ layout: default
   <div class="row">
     <div class="col-sm-8">
      {% for post in paginator.posts %}
-       <article class="post">
-
-         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-         {% include author_block.html thingy=post %}
-
-         <div class="entry">
-         {{ post.content }}
-         </div>
-
-         {% include tag_block.html thingy=post %}
-
-       </article>
+       {% include archive_single.html post=post %}
 	 {% endfor %}
 
 	 <!-- Pagination links -->
 	 <div class="pagination">
-	   {% if paginator.next_page %}
-	   <a href="{{ paginator.next_page_path }}" class="older">&larr; Older Posts</a>
+    {% comment %} Determine whether the first page and the last page are already included in trail {% endcomment %}
+    {% for trail in paginator.page_trail %}
+      {% if trail.num == paginator.first_page %}
+        {% assign has_first_page = true %}
+      {% elsif trail.num == paginator.last_page %}
+        {% assign has_last_page = true %}
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+	   <a href="{{ paginator.next_page_path }}" class="older">&larr; Older</a>
 	   {% endif %}
 
+    <div class="page-numbers">
+    {% for page in paginator.page_trail %}
+      {% if page.num == paginator.page %}
+        <span class="page-button current-page">{{ page.num }}</span>
+      {% else %}
+        <span class="page-button"><a href="{{ page.path }}">{{ page.num }}</a></span>
+      {% endif %}
+    {% endfor %}
+        </div>
+
 	   {% if paginator.previous_page %}
-	   <a href="{{ paginator.previous_page_path }}" class="newer">Newer Posts &rarr;</a>
+	   <a href="{{ paginator.previous_page_path }}" class="newer">Newer &rarr;</a>
 	   {% endif %}
 	 </div>
 	 </div>

@@ -5,6 +5,7 @@ date: '2015-05-28T06:11:00.001-07:00'
 author: Charles Sutton
 tags:
 - advice
+- advice for phd students
 modified_time: '2015-09-27T06:34:28.475-07:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-8515673636402127447
 blogger_orig_url: http://www.theexclusive.org/2015/05/my-top-conference-attendance-tip.html

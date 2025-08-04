@@ -32,11 +32,14 @@
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.tagline }}</p>
+            <a class="site-name" href="{{ site.baseurl }}/">
+              {{ site.name }}
+              <p class="site-description">{{ site.tagline }}</p>
+            </a>
           </div>
 
           <nav>
+            <a href="{{ site.baseurl }}/favourites.html">Favourites</a>
             <a href="{{ site.baseurl }}/archive">Archive</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
@@ -51,13 +54,11 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-                <a href="/#contact"><i class="fa fa-envelope-open fa-navbar" aria-hidden="true"></i></a>
-                <a href="https://sigmoid.social/@chas"><i class="fa-brands fa-mastodon fa-navbar"></i></a>
-                <a href="https://twitter.com/RandomlyWalking"><i class="fa fa-twitter fa-navbar" aria-hidden="true"></i></a>
-                <a href="http://scholar.google.co.uk/citations?user=hYtGXD0AAAAJ&amp;hl=en"><i class="fa fa-google fa-navbar" aria-hidden="true"></i></a>
-                <a href="https://github.com/casutton/"><i class="fa fa-github fa-navbar" aria-hidden="true"></i></a>
-	        <a href="{{ site.baseurl }}/feed.xml"><i class="fa fa-rss fa-navbar"  aria-hidden="true"></i></a>
-	</footer>
+		{% for feed in site.social.links %}
+		<a href="{{ feed.url }}" rel="me"><i class="{{ feed.icon }} fa-footer" aria-hidden="true"></i></a>
+		{% endfor %}
+    <p class="copyright-text">&copy; {{ site.start-year }}–{{ site.time | date: '%Y' }} {{ site.author.name }}. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> and Github Pages.</p>
+    </footer>
       </div>
     </div>
 

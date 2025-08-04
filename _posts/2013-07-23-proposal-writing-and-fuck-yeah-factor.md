@@ -4,6 +4,8 @@ title: Proposal Writing and the "Fuck Yeah" Factor
 date: '2013-07-23T11:44:00.000-07:00'
 author: Charles Sutton
 tags: 
+- advice
+- advice for professors
 modified_time: '2013-07-23T11:44:30.734-07:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-1093440389780365957
 blogger_orig_url: http://www.theexclusive.org/2013/07/proposal-writing-and-fuck-yeah-factor.html

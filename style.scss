@@ -5,9 +5,10 @@
 // IMPORTS
 //
 
-@import "reset";
-@import "variables";
-// Syntax highlighting @import is at the bottom of this file
+@use 'reset';
+@use 'variables' as *;
+@use "highlights";
+@use "svg-icons";
 
 /**************/
 /* BASE RULES */
@@ -46,7 +47,7 @@ h1 {
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 h3 {
@@ -145,7 +146,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 25px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -185,24 +186,33 @@ img {
   }
 }
 
+.site-info a:hover {
+  color: inherit;           /* Don't change color */
+  text-decoration: none;    /* Don't underline on hover */
+}
+
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #6f777d;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 200 !important;
   font-size: 28px;
-  letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $gray !important;
   font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
   }
+}
+
+// For article list, like on the main page.
+.posts article + article {
+  margin-top: 40px;
 }
 
 nav {
@@ -300,16 +310,19 @@ footer {
   text-align: center;
 }
 
+.fa-footer { font-size: 150%; margin-left: 0.5ex; }
+a .fa-footer { color: $darkerGray; }
+
+.copyright-text { color: $darkGray; }
 .biopic {
     float: right;
 }
 
 .author {
-  font-size: 8pt;
+  font-size: 90%;
   margin-top: -12px;
   padding-top: 0;
-  paddint-left: 2em;
-  font-family: $times;
+  font-family: $lora;
   color: $darkGray;
 }
 
@@ -339,28 +352,93 @@ div.pagenav {
 }
 
 // for pagination
-a.older { position: absolute; left: 0; }
-a.newer { position: absolute; right: 0; }
-div.next_post { float: right; text-align: right; }
+// a.older { position: absolute; left: 0; }
+// a.newer { position: absolute; right: 0; }
+// div.next_post { float: right; text-align: right; }
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2em 0;
+}
+
+.pagination .page-numbers .page-button {
+  text-decoration: none;
+  border: 1px solid #ccc;
+  padding: 0.4em 0.8em;
+  margin: 0;
+  color: #333;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.pagination .page-numbers a:hover {
+  background-color: #e0e0e0;
+}
+
+.pagination { // .page-numbers {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+
+.pagination .current-page {
+  background-color: #eeeeee;
+  font-weight: bold;
+}
+
+.pagination .older {
+  padding-right: 2ex;
+}
+
+.pagination .newer {
+  padding-left: 2ex;
+}
+
+.pagination .current {
+  background-color: #333;
+  color: white;
+  border-color: #333;
+}
 
 // sidebar
 .sidebar { padding-top: 2ex; }
 .sidebar ul { list-style: none; margin: 10px 0; padding-left: 10px; }
-.sidebar li { padding-top: 6px; padding-bottom: 6px; }
+.sidebar li { padding-top: 2px; padding-bottom: 2px; }
 .sidebar h1 { font-size: 14pt; padding-bottom: 0; margin-top: 25px; margin-bottom: 0; }
 .author_name { font-size: 12pt; font-family: $helveticaNeue; }
 
-.fa-sidebar { font-size: 18px; padding-right: 4px; }
+.fa-sidebar { font-size: 14px; padding-right: 4px; color: $darkGray; }
+.sidebar-links ul { columns: 2; column-width: 100px; column-gap: 8px; }
+.sidebar-links a {
+  font-family: $helveticaNeue;
+  font-size: 12px;
+  color: $darkGray;
+}
 
 .poem { padding-left: 10px; }
 .poem-attribution { padding-left: 60px; }
 
-// special things for the all-posts page
-.post-archive-list { list-style: none; }
-.post-archive-item { padding-top: 3px; padding-bottom: 3px; }
+// special things for the all-posts pages
+.post-archive-list {   
+  list-style: none;  
+  display: grid;
+  grid-template-columns: max-content max-content 1fr;
+  column-gap: 0.5ex;
+  row-gap: 4px;
+}
+.post-archive-date { font-size: 90%; color: $midGray; font-family: $lora; font-style: italic; }
+.archive-by-tag { 
+  columns: 3; /* or use column-count */
+  column-gap: 1.5rem; /* space between columns */
+}
+li.post-archive-item { 
+  padding-top: 3px; 
+  padding-bottom: 3px;
+  gap: 0.5ex;
+}
 .archive-paragraph { margin-top: 0px; padding-bottom: 6px; }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+// tag archive pages
+.archive-list { display: grid;   grid-template-columns: repeat(2, 1fr); gap: 4em; }

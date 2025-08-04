@@ -13,6 +13,8 @@ tagline: Advice on how to be creative, productive, and happy as a researcher.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/xor.png
 
+start-year: 2012
+
 #
 # Flags below are optional
 #
@@ -41,11 +43,28 @@ twitter:
 social:
   name: Charles Sutton
   links:
-   - https://twitter.com/randomlywalking
-   - https://www.linkedin.com/in/charles-sutton-772aa126/
-   - https://sigmoid.social/@chas
-   - https://github.com/casutton
-   - http://homepages.inf.ed.ac.uk/csutton/
+    - label: "Research"
+      icon: "fas fa-fw fa-link"
+      url: "http://homepages.inf.ed.ac.uk/csutton/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/charles-sutton-772aa126/"
+    - label: "Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=hYtGXD0AAAAJ"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/randomlywalking.bsky.social"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RandomlyWalking"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/casutton"
+    - label: "RSS"
+      icon: "fa fa-rss"
+      url: "{{ site.baseurl }}feed.xml"
+
 
 author:
   name: Charles Sutton
@@ -89,13 +108,14 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: expanded
 
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate # Paginate front page
+  - jekyll-include-cache
+  - jekyll-paginate-v2 # Paginate front page
 
 plugins:
   - jekyll-seo-tag
@@ -107,5 +127,15 @@ exclude:
   - LICENSE
   - README.md
 
-# settings for jekyll-paginate as per https://jekyllrb.com/docs/pagination/
-paginate: 5
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'  # Pages are index.html inside this folder (default)
+  title: ':title - page :num'
+  limit: 10
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 5
+    after: 5

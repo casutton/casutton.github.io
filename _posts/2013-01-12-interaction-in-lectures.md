@@ -6,6 +6,7 @@ author: Charles Sutton
 tags:
 - lecturing
 - advice
+- advice for professors
 modified_time: '2016-12-28T04:54:27.436-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-8752270248629406352
 blogger_orig_url: http://www.theexclusive.org/2013/01/interaction-in-lectures.html
