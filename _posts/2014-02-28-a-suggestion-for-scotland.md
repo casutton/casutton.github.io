@@ -7,7 +7,6 @@ tags:
 - britain
 - modest proposals
 - silly
-- popular
 modified_time: '2016-12-28T04:55:29.339-08:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-7100784160260999482
 blogger_orig_url: http://www.theexclusive.org/2014/02/a-suggestion-for-scotland.html

@@ -18,7 +18,27 @@ layout: default
 
   {% include tag_block.html thingy=page %}
 
-  <div class="row pagenav">
+{% if page.best_tag %}
+{% assign closest_tag = page.best_tag %}
+{% else %}
+{% assign closest_tag = page.tags[0] %}
+{% endif %}
+{% assign related = site.posts | where_exp: "post", "post.url != page.url" %}
+{% assign related = related | where: "tags", closest_tag %}
+
+{% if related.size > 0 %}
+  <div class="row post-footer related">
+    <h3>Related</h3>
+    <ul class="related-grid">
+      {% for post in related limit:3 %}
+        <li><p><a href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
+            <p>{% include date_block.html thingy=post %}</p></li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
+  <div class="row post-footer">
       {% if page.previous.url %}
       <div class="col-xs-6 prev_post"><a href="{{page.previous.url}}">&larr; {{page.previous.title}}</a></div>
       {% endif %}
@@ -26,10 +46,6 @@ layout: default
       <div class="col-xs-6 next_post"><a href="{{page.next.url}}">{{page.next.title}} &rarr;</a></div>
       {% endif %}
   </div>
-
-
-  {% include disqus.html %}
-
 
   </div>
 

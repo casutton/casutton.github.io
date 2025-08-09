@@ -127,7 +127,6 @@ exclude:
   - LICENSE
   - README.md
 
-
 pagination:
   enabled: true
   per_page: 10

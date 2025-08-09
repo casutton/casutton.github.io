@@ -6,6 +6,8 @@ tags:
 - advice
 - research advice
 - popular
+excerpt: >
+  Alternate title: How having an imaginary friend can help you in research.
 date: 2017-11-04 17:00:00
 ---
 
@@ -15,7 +17,7 @@ S. Keshav. [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA
 
 But there's one tip that I can offer you to organise your reading of a paper that I can't remember seeing elsewhere. Ask yourself:
 
-What is the 5 minute summary that you would give to a Very Smart Friend?
+What is the 5 minute summary that you would give to your Imaginary but Very Smart Friend?
 
 I don't understand a paper until I can explain the paper to a smart person who hasn't read it. I need to be able to explain enough to the VSF so that she understands: what problem the paper is trying to solve, what sort of methods does it use, and how does it relate to the literature, i.e., what does it add.
 

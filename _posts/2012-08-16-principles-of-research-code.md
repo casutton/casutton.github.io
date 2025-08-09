@@ -5,7 +5,6 @@ date: '2012-08-16T05:23:00.001-07:00'
 author: Charles Sutton
 tags:
 - advice
-- popular
 modified_time: '2017-05-01T08:57:51.489-07:00'
 blogger_id: tag:blogger.com,1999:blog-4651184076703138844.post-2459945294961582099
 blogger_orig_url: http://www.theexclusive.org/2012/08/principles-of-research-code.html

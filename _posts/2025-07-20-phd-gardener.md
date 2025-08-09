@@ -4,6 +4,10 @@ title: 'What I Learned about Gardening from my PhD in Computer Science'
 author: Charles Sutton
 tags: 
 - painfully extended metaphors
+excerpt: >
+  Several years ago, I moved into a house with a garden. My PhD was in computer science,
+  so it did not have much to do with gardens, or plants, or even sunlight.
+  It still helped me in the garden. Here's how.
 date: 2025-07-20 08:00:00
 ---
 

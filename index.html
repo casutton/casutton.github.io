@@ -14,7 +14,7 @@ pagination:
 
 	 <!-- Pagination links -->
 	 <div class="pagination">
-    {% comment %} Determine whether the first page and the last page are already included in trail {% endcomment %}
+    {% comment %} Determine whether the first page and the last page are already included in trail (need for TODO ellipses) {% endcomment %}
     {% for trail in paginator.page_trail %}
       {% if trail.num == paginator.first_page %}
         {% assign has_first_page = true %}
@@ -23,10 +23,15 @@ pagination:
       {% endif %}
     {% endfor %}
 
-    {% if paginator.next_page %}
-	   <a href="{{ paginator.next_page_path }}" class="older">&larr; Older</a>
+	   {% if paginator.previous_page == nil %}
+       {% assign previous_page_class = "pagination-disabled" %}
 	   {% endif %}
 
+     	{% if paginator.next_page == nil %}
+       {% assign next_page_class = "pagination-disabled" %}
+	   {% endif %}
+
+	  <a href="{{ paginator.previous_page_path }}" class="newer {{previous_page_class}}">&larr; Newer</a>
     <div class="page-numbers">
     {% for page in paginator.page_trail %}
       {% if page.num == paginator.page %}
@@ -36,10 +41,7 @@ pagination:
       {% endif %}
     {% endfor %}
         </div>
-
-	   {% if paginator.previous_page %}
-	   <a href="{{ paginator.previous_page_path }}" class="newer">Newer &rarr;</a>
-	   {% endif %}
+	   <a href="{{ paginator.next_page_path }}" class="older {{next_page_class}}">Older &rarr;</a>
 	 </div>
 	 </div>
 

@@ -330,11 +330,12 @@ a .fa-footer { color: $darkerGray; }
   text-decoration: underline;
 }
 
-div.pagenav {
-   margin: 18px 0px 18px 0px;
-   padding: 12px;
+div.post-footer {
+   margin: 25px 0px 25px 0px;
+   padding: 12px 0px 0px 0px;
    border-top: 1px solid $lightGray;
-   border-bottom: 1px solid $lightGray;
+   
+   //border-bottom: 1px solid $lightGray;
 }
 
 .tag-index-summary:before {
@@ -389,11 +390,15 @@ div.pagenav {
 }
 
 .pagination .older {
-  padding-right: 2ex;
+  padding-left: 2ex;
 }
 
 .pagination .newer {
-  padding-left: 2ex;
+  padding-right: 2ex;
+}
+
+.pagination-disabled {
+  visibility: hidden;
 }
 
 .pagination .current {
@@ -407,7 +412,7 @@ div.pagenav {
 .sidebar ul { list-style: none; margin: 10px 0; padding-left: 10px; }
 .sidebar li { padding-top: 2px; padding-bottom: 2px; }
 .sidebar h1 { font-size: 14pt; padding-bottom: 0; margin-top: 25px; margin-bottom: 0; }
-.author_name { font-size: 12pt; font-family: $helveticaNeue; }
+.author_name { font-size: 14pt; font-family: $helveticaNeue; }
 
 .fa-sidebar { font-size: 14px; padding-right: 4px; color: $darkGray; }
 .sidebar-links ul { columns: 2; column-width: 100px; column-gap: 8px; }
@@ -442,3 +447,33 @@ li.post-archive-item {
 
 // tag archive pages
 .archive-list { display: grid;   grid-template-columns: repeat(2, 1fr); gap: 4em; }
+
+
+// posts pages
+
+.related h3 {
+  margin-bottom: 0;
+}
+
+.related-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .5rem 1rem;
+}
+
+@media (min-width: 700px) {
+  .related-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.related-grid .date {
+  font-size: 95%;
+  padding-top: 0;
+  font-family: $lora;
+  color: $gray;
+  font-style: italic;
+}
